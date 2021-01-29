@@ -71,6 +71,12 @@
           <VariableType>2 Bytes</VariableType>
           <Address>octoshock.dll+389C92</Address>
         </CheatEntry>
+        <CheatEntry>
+          <ID>512</ID>
+          <Description>"Player 1 Music"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>octoshock.dll+38A058</Address>
+        </CheatEntry>
       </CheatEntries>
     </CheatEntry>
     <CheatEntry>
@@ -141,6 +147,12 @@
           <VariableType>2 Bytes</VariableType>
           <Address>octoshock.dll+389C94</Address>
         </CheatEntry>
+        <CheatEntry>
+          <ID>511</ID>
+          <Description>"Player 2 Music"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>octoshock.dll+38A05C</Address>
+        </CheatEntry>
       </CheatEntries>
     </CheatEntry>
     <CheatEntry>
@@ -148,6 +160,18 @@
       <Description>"Score thing"</Description>
       <VariableType>2 Bytes</VariableType>
       <Address>octoshock.dll+4B3DF4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>361</ID>
+      <Description>"Set to 0 for PTR2 line mechanics (default is 6)"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>octoshock.dll+3280D0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>362</ID>
+      <Description>"Set to 0 for PTR2 line mechanics (default is 64)"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>octoshock.dll+3280D2</Address>
     </CheatEntry>
     <CheatEntry>
       <ID>32</ID>
@@ -248,7 +272,7 @@
     </CheatEntry>
     <CheatEntry>
       <ID>855</ID>
-      <Description>"Stage 2 Rammy"</Description>
+      <Description>"Stage 2 Rammy VS Lines"</Description>
       <Options moManualExpandCollapse="1"/>
       <LastState Value="" RealAddress="00000000"/>
       <GroupHeader>1</GroupHeader>
@@ -3247,7 +3271,7 @@
     </CheatEntry>
     <CheatEntry>
       <ID>916</ID>
-      <Description>"Stage 5 PaRappa Co-Op/1"</Description>
+      <Description>"Stage 5 PaRappa VS Lines"</Description>
       <Options moManualExpandCollapse="1"/>
       <LastState Value="" RealAddress="00000000"/>
       <GroupHeader>1</GroupHeader>
@@ -8710,34 +8734,10 @@
       </CheatEntries>
     </CheatEntry>
     <CheatEntry>
-      <ID>361</ID>
-      <Description>"No description"</Description>
-      <VariableType>Byte</VariableType>
-      <Address>octoshock.dll+3280D0</Address>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>362</ID>
-      <Description>"No description"</Description>
-      <VariableType>Byte</VariableType>
-      <Address>octoshock.dll+3280D2</Address>
-    </CheatEntry>
-    <CheatEntry>
       <ID>1100</ID>
       <Description>"Versus"</Description>
       <LastState Value="" RealAddress="00000000"/>
       <GroupHeader>1</GroupHeader>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>511</ID>
-      <Description>"Player 2 Music"</Description>
-      <VariableType>Byte</VariableType>
-      <Address>octoshock.dll+38A05C</Address>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>512</ID>
-      <Description>"Player 1 Music"</Description>
-      <VariableType>Byte</VariableType>
-      <Address>octoshock.dll+38A058</Address>
     </CheatEntry>
   </CheatEntries>
   <UserdefinedSymbols/>
