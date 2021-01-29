@@ -4,6 +4,7 @@
     <CheatEntry>
       <ID>1111</ID>
       <Description>"Player 1"</Description>
+      <Options moManualExpandCollapse="1"/>
       <LastState Value="" RealAddress="00000000"/>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
@@ -82,6 +83,7 @@
     <CheatEntry>
       <ID>1112</ID>
       <Description>"Player 2"</Description>
+      <Options moManualExpandCollapse="1"/>
       <LastState Value="" RealAddress="00000000"/>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
@@ -3876,7 +3878,7 @@
               <CheatEntries>
                 <CheatEntry>
                   <ID>955</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 1"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -3884,7 +3886,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>958</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 1"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -3892,7 +3894,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>959</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 1"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -3900,7 +3902,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>960</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 1"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -3908,7 +3910,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>961</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 1"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -3916,7 +3918,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>962</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 1"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -3924,7 +3926,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>963</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 1"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -3932,7 +3934,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>964</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 1"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -3940,7 +3942,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>965</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 1"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -3948,7 +3950,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>966</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 1"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -3956,7 +3958,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>967</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 1"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -3964,7 +3966,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>968</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 1"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -3972,7 +3974,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>969</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 1"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -3980,7 +3982,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>970</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 1"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -3988,7 +3990,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>971</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 2"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -3996,7 +3998,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>972</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 2"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4004,7 +4006,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>973</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 2"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4012,7 +4014,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>974</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 2"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4020,7 +4022,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>975</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 2"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4028,7 +4030,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>976</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 2"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4036,7 +4038,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>977</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 2"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4044,7 +4046,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>978</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 2"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4052,7 +4054,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>979</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 2"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4060,7 +4062,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>980</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 2"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4068,7 +4070,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>981</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 2"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4076,7 +4078,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>982</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 2"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4084,7 +4086,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>983</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 2"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4092,7 +4094,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>984</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 2"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4100,7 +4102,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>985</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 3"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4108,7 +4110,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>986</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 3"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4116,7 +4118,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>987</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 3"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4124,7 +4126,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>988</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 3"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4132,7 +4134,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>989</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 3"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4140,7 +4142,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1017</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 3"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4148,7 +4150,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1018</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 3"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4156,7 +4158,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1019</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 3"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4164,7 +4166,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1020</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 3"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4172,7 +4174,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1022</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 3"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4180,7 +4182,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1023</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 3"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4188,7 +4190,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1024</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 3"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4196,7 +4198,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1025</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 3"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4204,7 +4206,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1026</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 3"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4212,7 +4214,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1027</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 4"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4220,7 +4222,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1028</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 4"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4228,7 +4230,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1029</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 4"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4236,7 +4238,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1030</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 4"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4244,7 +4246,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1031</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 4"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4252,7 +4254,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1032</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 4"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4260,7 +4262,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1033</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 4"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4268,7 +4270,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1034</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 4"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4276,7 +4278,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1035</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 4"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4284,7 +4286,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1036</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 4"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4292,7 +4294,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1037</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 4"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4300,7 +4302,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1038</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 4"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4308,7 +4310,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1039</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 4"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4316,7 +4318,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1040</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 4"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4327,12 +4329,13 @@
             <CheatEntry>
               <ID>1021</ID>
               <Description>"Difficulty 1"</Description>
+              <Options moManualExpandCollapse="1"/>
               <LastState Value="" RealAddress="00000000"/>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
                   <ID>1041</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 5"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4340,7 +4343,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1042</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 5"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4348,7 +4351,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1043</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 5"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4356,7 +4359,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1044</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 5"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4364,7 +4367,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1045</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 5"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4372,7 +4375,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1046</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 5"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4380,7 +4383,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1047</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 5"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4388,7 +4391,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1048</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 5"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4396,7 +4399,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1049</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 5"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4404,7 +4407,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1050</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 5"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4412,7 +4415,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1051</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 5"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4420,7 +4423,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1052</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 5"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4428,7 +4431,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1053</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 5"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4436,7 +4439,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1054</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 5"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4444,7 +4447,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1055</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 6"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4452,7 +4455,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1056</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 6"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4460,7 +4463,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1057</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 6"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4468,7 +4471,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1072</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 6"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4476,7 +4479,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1073</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 6"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4484,7 +4487,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1074</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 6"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4492,7 +4495,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1075</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 6"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4500,15 +4503,47 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1076</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 6"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
                   <Address>octoshock.dll+4E20D4</Address>
                 </CheatEntry>
                 <CheatEntry>
+                  <ID>1385</ID>
+                  <Description>"Set 6"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E20FC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1386</ID>
+                  <Description>"Set 6"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2124</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1387</ID>
+                  <Description>"Set 6"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E214C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1388</ID>
+                  <Description>"Set 6"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2174</Address>
+                </CheatEntry>
+                <CheatEntry>
                   <ID>1059</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 6"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4516,7 +4551,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1058</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 6"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4524,7 +4559,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1060</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 7"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4532,7 +4567,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1061</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 7"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4540,7 +4575,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1062</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 7"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4548,7 +4583,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1063</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 7"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4556,7 +4591,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1064</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 7"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4564,7 +4599,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1065</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 7"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4572,7 +4607,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1066</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 7"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4580,7 +4615,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1067</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 7"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4588,7 +4623,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1068</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 7"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4596,7 +4631,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1069</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 7"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4604,7 +4639,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1070</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 7"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4612,7 +4647,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1071</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 7"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4620,7 +4655,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1077</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 7"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4628,7 +4663,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1078</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 7"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4636,7 +4671,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1079</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 8"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4644,7 +4679,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1080</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 8"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4652,7 +4687,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1081</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 8"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4660,7 +4695,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1082</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 8"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4668,7 +4703,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1083</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 8"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4676,7 +4711,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1084</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 8"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4684,7 +4719,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1085</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 8"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4692,7 +4727,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1086</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 8"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4700,7 +4735,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1087</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 8"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4708,7 +4743,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1088</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 8"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4716,7 +4751,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1089</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 8"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4724,7 +4759,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1102</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 8"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4732,7 +4767,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1103</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 8"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
@@ -4740,43 +4775,925 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1104</ID>
-                  <Description>"No description"</Description>
+                  <Description>"Set 8"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
                   <Address>octoshock.dll+4E2624</Address>
                 </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1300</ID>
+              <Description>"CPU 2/4"</Description>
+              <Options moManualExpandCollapse="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
                 <CheatEntry>
-                  <ID>1105</ID>
-                  <Description>"No description"</Description>
+                  <ID>1288</ID>
+                  <Description>"Set 9"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
                   <Address>octoshock.dll+4E264C</Address>
                 </CheatEntry>
                 <CheatEntry>
-                  <ID>1106</ID>
-                  <Description>"No description"</Description>
+                  <ID>1289</ID>
+                  <Description>"Set 9"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
                   <Address>octoshock.dll+4E2674</Address>
                 </CheatEntry>
                 <CheatEntry>
-                  <ID>1107</ID>
-                  <Description>"No description"</Description>
+                  <ID>1290</ID>
+                  <Description>"Set 9"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
                   <Address>octoshock.dll+4E269C</Address>
                 </CheatEntry>
                 <CheatEntry>
-                  <ID>1108</ID>
-                  <Description>"No description"</Description>
+                  <ID>1291</ID>
+                  <Description>"Set 9"</Description>
                   <ShowAsHex>1</ShowAsHex>
                   <VariableType>Array of byte</VariableType>
                   <ByteLength>31</ByteLength>
                   <Address>octoshock.dll+4E26C4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1292</ID>
+                  <Description>"Set 9"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E26EC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1293</ID>
+                  <Description>"Set 9"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2714</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1294</ID>
+                  <Description>"Set 9"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E273C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1295</ID>
+                  <Description>"Set 9"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2764</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1296</ID>
+                  <Description>"Set 9"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E278C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1297</ID>
+                  <Description>"Set 9"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E27B4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1298</ID>
+                  <Description>"Set 9"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E27DC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1299</ID>
+                  <Description>"Set 9"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2804</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1301</ID>
+                  <Description>"Set 9"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E282C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1302</ID>
+                  <Description>"Set 9"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2854</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1303</ID>
+                  <Description>"Set 10"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E287C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1304</ID>
+                  <Description>"Set 10"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E28A4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1305</ID>
+                  <Description>"Set 10"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E28CC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1306</ID>
+                  <Description>"Set 10"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E28F4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1307</ID>
+                  <Description>"Set 10"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E291C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1308</ID>
+                  <Description>"Set 10"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2944</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1309</ID>
+                  <Description>"Set 10"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E296C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1310</ID>
+                  <Description>"Set 10"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2994</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1311</ID>
+                  <Description>"Set 10"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E29BC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1312</ID>
+                  <Description>"Set 10"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E29E4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1313</ID>
+                  <Description>"Set 10"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2A0C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1314</ID>
+                  <Description>"Set 10"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2A34</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1315</ID>
+                  <Description>"Set 10"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2A5C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1316</ID>
+                  <Description>"Set 10"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2A84</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1317</ID>
+                  <Description>"Set 11"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2AAC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1318</ID>
+                  <Description>"Set 11"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2AD4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1319</ID>
+                  <Description>"Set 11"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2AFC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1320</ID>
+                  <Description>"Set 11"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2B24</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1321</ID>
+                  <Description>"Set 11"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2B4C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1322</ID>
+                  <Description>"Set 11"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2B74</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1323</ID>
+                  <Description>"Set 11"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2B9C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1324</ID>
+                  <Description>"Set 11"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2BC4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1325</ID>
+                  <Description>"Set 11"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2BEC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1326</ID>
+                  <Description>"Set 11"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2C14</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1327</ID>
+                  <Description>"Set 11"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2C3C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1328</ID>
+                  <Description>"Set 11"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2C64</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1329</ID>
+                  <Description>"Set 11"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2C8C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1330</ID>
+                  <Description>"Set 11"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2CB4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1331</ID>
+                  <Description>"Set 12"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2CDC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1332</ID>
+                  <Description>"Set 12"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2D04</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1333</ID>
+                  <Description>"Set 12"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2D2C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1334</ID>
+                  <Description>"Set 12"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2D54</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1335</ID>
+                  <Description>"Set 12"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2D7C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1336</ID>
+                  <Description>"Set 12"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2DA4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1337</ID>
+                  <Description>"Set 12"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2DCC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1338</ID>
+                  <Description>"Set 12"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2DF4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1339</ID>
+                  <Description>"Set 12"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2E1C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1340</ID>
+                  <Description>"Set 12"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2E44</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1341</ID>
+                  <Description>"Set 12"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2E6C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1342</ID>
+                  <Description>"Set 12"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2E94</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1343</ID>
+                  <Description>"Set 12"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2EBC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1344</ID>
+                  <Description>"Set 12"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2EE4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1405</ID>
+              <Description>"CPU 4"</Description>
+              <Options moManualExpandCollapse="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>1345</ID>
+                  <Description>"Set 13"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2F0C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1346</ID>
+                  <Description>"Set 13"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2F34</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1347</ID>
+                  <Description>"Set 13"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2F5C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1348</ID>
+                  <Description>"Set 13"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2F84</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1349</ID>
+                  <Description>"Set 13"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2FAC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1350</ID>
+                  <Description>"Set 13"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2FD4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1351</ID>
+                  <Description>"Set 13"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E2FFC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1352</ID>
+                  <Description>"Set 13"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E3024</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1353</ID>
+                  <Description>"Set 13"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E304C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1354</ID>
+                  <Description>"Set 13"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E3074</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1355</ID>
+                  <Description>"Set 13"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E309C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1356</ID>
+                  <Description>"Set 13"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E30C4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1357</ID>
+                  <Description>"Set 13"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E30EC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1358</ID>
+                  <Description>"Set 13"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E3114</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1359</ID>
+                  <Description>"Set 14"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E313C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1360</ID>
+                  <Description>"Set 14"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E3164</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1361</ID>
+                  <Description>"Set 14"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E318C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1362</ID>
+                  <Description>"Set 14"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E31B4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1363</ID>
+                  <Description>"Set 14"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E31DC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1364</ID>
+                  <Description>"Set 14"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E3204</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1365</ID>
+                  <Description>"Set 14"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E322C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1366</ID>
+                  <Description>"Set 14"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E3254</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1367</ID>
+                  <Description>"Set 14"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E327C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1368</ID>
+                  <Description>"Set 14"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E32A4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1369</ID>
+                  <Description>"Set 14"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E32CC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1370</ID>
+                  <Description>"Set 14"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E32F4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1371</ID>
+                  <Description>"Set 14"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E331C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1372</ID>
+                  <Description>"Set 14"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E3344</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1373</ID>
+                  <Description>"Set 15"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E336C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1374</ID>
+                  <Description>"Set 15"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E3394</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1375</ID>
+                  <Description>"Set 15"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E33BC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1376</ID>
+                  <Description>"Set 15"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E33E4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1377</ID>
+                  <Description>"Set 15"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E340C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1378</ID>
+                  <Description>"Set 15"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E3434</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1379</ID>
+                  <Description>"Set 15"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E345C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1380</ID>
+                  <Description>"Set 15"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E3484</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1381</ID>
+                  <Description>"Set 15"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E34AC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1382</ID>
+                  <Description>"Set 15"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E34D4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1383</ID>
+                  <Description>"Set 15"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E34FC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1384</ID>
+                  <Description>"Set 15"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E3524</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1389</ID>
+                  <Description>"Set 15"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E354C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1390</ID>
+                  <Description>"Set 15"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E3574</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1391</ID>
+                  <Description>"Set 16"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E359C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1392</ID>
+                  <Description>"Set 16"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E35C4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1393</ID>
+                  <Description>"Set 16"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E35EC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1394</ID>
+                  <Description>"Set 16"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E3614</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1395</ID>
+                  <Description>"Set 16"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E363C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1396</ID>
+                  <Description>"Set 16"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E3664</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1397</ID>
+                  <Description>"Set 16"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E368C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1398</ID>
+                  <Description>"Set 16"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E36B4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1399</ID>
+                  <Description>"Set 16"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E36DC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1400</ID>
+                  <Description>"Set 16"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E3704</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1401</ID>
+                  <Description>"Set 16"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E372C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1402</ID>
+                  <Description>"Set 16"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E3754</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1403</ID>
+                  <Description>"Set 16"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E377C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1404</ID>
+                  <Description>"Set 16"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <VariableType>Array of byte</VariableType>
+                  <ByteLength>31</ByteLength>
+                  <Address>octoshock.dll+4E37A4</Address>
                 </CheatEntry>
               </CheatEntries>
             </CheatEntry>
