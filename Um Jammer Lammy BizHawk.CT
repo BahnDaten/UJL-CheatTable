@@ -41,22 +41,22 @@
           <Address>octoshock.dll+383628</Address>
         </CheatEntry>
         <CheatEntry>
-          <ID>1110</ID>
+          <ID>39</ID>
           <Description>"Player 1 Cool Line 1"</Description>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>1</ShowAsSigned>
           <VariableType>Array of byte</VariableType>
           <ByteLength>16</ByteLength>
-          <Address>octoshock.dll+383651</Address>
+          <Address>octoshock.dll+383641</Address>
         </CheatEntry>
         <CheatEntry>
-          <ID>39</ID>
+          <ID>1110</ID>
           <Description>"Player 1 Cool Line 2"</Description>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>1</ShowAsSigned>
           <VariableType>Array of byte</VariableType>
           <ByteLength>16</ByteLength>
-          <Address>octoshock.dll+383641</Address>
+          <Address>octoshock.dll+383651</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>10</ID>
@@ -120,20 +120,20 @@
           <Address>octoshock.dll+4B3F98</Address>
         </CheatEntry>
         <CheatEntry>
-          <ID>1109</ID>
+          <ID>1101</ID>
           <Description>"Player 2 Cool Line 1"</Description>
           <ShowAsHex>1</ShowAsHex>
           <VariableType>Array of byte</VariableType>
           <ByteLength>16</ByteLength>
-          <Address>octoshock.dll+3836B1</Address>
+          <Address>octoshock.dll+3836a1</Address>
         </CheatEntry>
         <CheatEntry>
-          <ID>1101</ID>
+          <ID>1109</ID>
           <Description>"Player 2 Cool Line 2"</Description>
           <ShowAsHex>1</ShowAsHex>
           <VariableType>Array of byte</VariableType>
-          <ByteLength>15</ByteLength>
-          <Address>octoshock.dll+3836a1</Address>
+          <ByteLength>16</ByteLength>
+          <Address>octoshock.dll+3836B1</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>31</ID>
