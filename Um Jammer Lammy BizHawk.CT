@@ -4368,6 +4368,1801 @@
       </CheatEntries>
     </CheatEntry>
     <CheatEntry>
+      <ID>1870</ID>
+      <Description>"Stage 3 PaRappa VS Lines"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1887</ID>
+          <Description>"Line 1"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1877</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>16</ByteLength>
+              <Address>octoshock.dll+4E283C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1876</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>16</ByteLength>
+              <Address>octoshock.dll+4E2958</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1875</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>16</ByteLength>
+              <Address>octoshock.dll+4E2A74</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1871</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>16</ByteLength>
+              <Address>octoshock.dll+4E2B90</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1874</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>16</ByteLength>
+              <Address>octoshock.dll+4E2CAC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1873</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>16</ByteLength>
+              <Address>octoshock.dll+4E2DC8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1872</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>16</ByteLength>
+              <Address>octoshock.dll+4E2EE4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1878</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>16</ByteLength>
+              <Address>octoshock.dll+4E3000</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1879</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>16</ByteLength>
+              <Address>octoshock.dll+4E311C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1880</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>16</ByteLength>
+              <Address>octoshock.dll+4E3238</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1881</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>16</ByteLength>
+              <Address>octoshock.dll+4E3354</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1882</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>16</ByteLength>
+              <Address>octoshock.dll+4E3470</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1883</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>16</ByteLength>
+              <Address>octoshock.dll+4E358C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1884</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>16</ByteLength>
+              <Address>octoshock.dll+4E36A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1885</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>16</ByteLength>
+              <Address>octoshock.dll+4E37C4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1886</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>16</ByteLength>
+              <Address>octoshock.dll+4E38E0</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1888</ID>
+          <Description>"Line 2"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1889</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2854</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1890</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2970</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1891</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2A8C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1892</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2BA8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1893</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2CC4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1894</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2DE0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1895</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2EFC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1896</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3018</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1897</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3134</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1898</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3250</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1899</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E336C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1900</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3488</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1901</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E35A4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1902</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E36C0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1903</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E37DC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1904</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E38F8</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1905</ID>
+          <Description>"Line 3"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1906</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2870</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1907</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E298C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1908</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2AA8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1909</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2BC4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1910</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2CE0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1911</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2DFC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1912</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2F18</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1913</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3034</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1914</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3150</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1915</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E326C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1916</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3388</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1917</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E34A4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1918</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E35C0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1919</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E36DC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1920</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E37F8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1921</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3914</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1922</ID>
+          <Description>"Line 4"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1923</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E288C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1924</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E29A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1925</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2AC4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1926</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2BE0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1927</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2CFC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1928</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2E18</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1929</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2F34</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1930</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E3050</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1931</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E316C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1932</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E3288</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1933</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E33A4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1934</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E34C0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1935</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E35DC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1936</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E36F8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1937</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E3814</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1938</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E3930</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1939</ID>
+          <Description>"Line 5"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1940</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E289C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1941</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E29B8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1942</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2AD4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1943</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2BF0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1944</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2D0C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1945</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2E28</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1946</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2F44</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1947</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E3060</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1948</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E317C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1949</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E3298</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1950</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E33B4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1951</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E34D0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1952</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E35EC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1953</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E3708</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1954</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E3824</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1955</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E3940</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1956</ID>
+          <Description>"Line 6"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1957</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E28AC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1958</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E29C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1959</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2AE4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1960</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2C00</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1961</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2D1C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1962</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2E38</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1963</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2F54</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1964</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E3070</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1965</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E318C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1966</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E32A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1967</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E33C4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1968</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E34E0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1969</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E35FC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1970</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E3718</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1971</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E3834</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1972</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E3950</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1973</ID>
+          <Description>"Line 7"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1974</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E28BC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1975</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E29D8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1976</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2AF4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1977</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2C10</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1978</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2D2C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1979</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2E48</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1980</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2F64</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1981</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E3080</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1982</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E319C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1983</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E32B8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1984</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E33D4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1985</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E34F0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1986</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E360C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1987</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E3728</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1988</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E3844</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1989</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E3960</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1990</ID>
+          <Description>"Line 8"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1991</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>7</ByteLength>
+              <Address>octoshock.dll+4E28CC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1992</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>7</ByteLength>
+              <Address>octoshock.dll+4E29E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1993</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>7</ByteLength>
+              <Address>octoshock.dll+4E2B04</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1994</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>7</ByteLength>
+              <Address>octoshock.dll+4E2C20</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1995</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>7</ByteLength>
+              <Address>octoshock.dll+4E2D3C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1996</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>7</ByteLength>
+              <Address>octoshock.dll+4E2E58</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1997</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>7</ByteLength>
+              <Address>octoshock.dll+4E2F74</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1998</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>7</ByteLength>
+              <Address>octoshock.dll+4E3090</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1999</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>7</ByteLength>
+              <Address>octoshock.dll+4E31AC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2000</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>7</ByteLength>
+              <Address>octoshock.dll+4E32C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2001</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>7</ByteLength>
+              <Address>octoshock.dll+4E33E4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2002</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>7</ByteLength>
+              <Address>octoshock.dll+4E3500</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2003</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>7</ByteLength>
+              <Address>octoshock.dll+4E361C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2004</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>7</ByteLength>
+              <Address>octoshock.dll+4E3738</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2005</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>7</ByteLength>
+              <Address>octoshock.dll+4E3854</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2006</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>7</ByteLength>
+              <Address>octoshock.dll+4E3970</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2007</ID>
+          <Description>"Line 9"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2008</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E28DC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2009</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E29F8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2010</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2B14</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2011</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2C30</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2012</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2D4C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2013</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2E68</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2014</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E2F84</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2015</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E30A0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2016</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E31BC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2017</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E32D8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2018</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E33F4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2019</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E3510</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2020</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E362C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2021</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E3748</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2022</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E3864</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2023</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>octoshock.dll+4E3980</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2024</ID>
+          <Description>"Line 10"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2025</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E28EC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2026</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2A08</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2027</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2B24</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2028</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2C40</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2029</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2D5C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2030</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2E78</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2031</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2F94</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2032</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E30B0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2033</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E31CC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2034</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E32E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2035</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3404</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2036</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3520</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2037</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E363C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2038</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3758</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2039</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3874</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2040</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3990</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2041</ID>
+          <Description>"Line 11"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2042</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2908</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2043</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2A24</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2044</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2B40</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2045</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2C5C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2046</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2D78</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2047</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2E94</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2048</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2FB0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2049</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E30CC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2050</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E31E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2051</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3304</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2052</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3420</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2053</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E353C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2054</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3658</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2055</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3774</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2056</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3890</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2057</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E39AC</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2058</ID>
+          <Description>"Line 12"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2059</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2924</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2060</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2A40</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2061</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2B5C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2062</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2C78</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2063</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2D94</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2064</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2EB0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2065</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2FCC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2066</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E30E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2067</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3204</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2068</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3320</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2069</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E343C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2070</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3558</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2071</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3674</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2072</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3790</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2073</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E38AC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2074</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E39C8</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2075</ID>
+          <Description>"Line 13"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2076</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E293C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2077</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2A58</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2078</ID>
+              <Description>"Co-op"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2B74</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2079</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2C90</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2080</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2DAC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2081</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2EC8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2082</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E2FE4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2083</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3100</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2084</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E321C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2085</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3338</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2086</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3454</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2087</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E3570</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2088</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E368C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2089</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E37A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2090</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E38C4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2091</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>17</ByteLength>
+              <Address>octoshock.dll+4E39E0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2092</ID>
+              <Description>"COOL Mode Lines"</Description>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
       <ID>150</ID>
       <Description>"Stage 4 PaRappa VS Lines"</Description>
       <Options moManualExpandCollapse="1"/>
