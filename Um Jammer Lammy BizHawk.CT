@@ -14073,7 +14073,7 @@
         </CheatEntry>
         <CheatEntry>
           <ID>647</ID>
-          <Description>"Line 8"</Description>
+          <Description>"Line 9"</Description>
           <Options moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
           <LastState Value="" RealAddress="00000000"/>
           <GroupHeader>1</GroupHeader>
@@ -14138,7 +14138,7 @@
         </CheatEntry>
         <CheatEntry>
           <ID>655</ID>
-          <Description>"Line 9"</Description>
+          <Description>"Line 10"</Description>
           <Options moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
           <LastState Value="" RealAddress="00000000"/>
           <GroupHeader>1</GroupHeader>
@@ -14203,7 +14203,7 @@
         </CheatEntry>
         <CheatEntry>
           <ID>663</ID>
-          <Description>"Line 10"</Description>
+          <Description>"Line 11"</Description>
           <Options moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
           <LastState Value="" RealAddress="00000000"/>
           <GroupHeader>1</GroupHeader>
@@ -14268,7 +14268,7 @@
         </CheatEntry>
         <CheatEntry>
           <ID>671</ID>
-          <Description>"Line 11"</Description>
+          <Description>"Line 12"</Description>
           <Options moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
           <LastState Value="" RealAddress="00000000"/>
           <GroupHeader>1</GroupHeader>
@@ -14333,7 +14333,7 @@
         </CheatEntry>
         <CheatEntry>
           <ID>679</ID>
-          <Description>"Line 12"</Description>
+          <Description>"Line 13"</Description>
           <Options moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
           <LastState Value="" RealAddress="00000000"/>
           <GroupHeader>1</GroupHeader>
@@ -14398,7 +14398,7 @@
         </CheatEntry>
         <CheatEntry>
           <ID>687</ID>
-          <Description>"Line 13"</Description>
+          <Description>"Line 14"</Description>
           <Options moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
           <LastState Value="" RealAddress="00000000"/>
           <GroupHeader>1</GroupHeader>
@@ -14463,7 +14463,7 @@
         </CheatEntry>
         <CheatEntry>
           <ID>695</ID>
-          <Description>"Line 14"</Description>
+          <Description>"Line 15"</Description>
           <Options moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
           <LastState Value="" RealAddress="00000000"/>
           <GroupHeader>1</GroupHeader>
@@ -14528,7 +14528,7 @@
         </CheatEntry>
         <CheatEntry>
           <ID>711</ID>
-          <Description>"Line 15"</Description>
+          <Description>"Line 16"</Description>
           <Options moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
           <LastState Value="" RealAddress="00000000"/>
           <GroupHeader>1</GroupHeader>
@@ -14593,7 +14593,7 @@
         </CheatEntry>
         <CheatEntry>
           <ID>703</ID>
-          <Description>"Line 16"</Description>
+          <Description>"Line 17"</Description>
           <Options moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
           <LastState Value="" RealAddress="00000000"/>
           <GroupHeader>1</GroupHeader>
@@ -14658,7 +14658,7 @@
         </CheatEntry>
         <CheatEntry>
           <ID>719</ID>
-          <Description>"Line 17"</Description>
+          <Description>"Line 18"</Description>
           <Options moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
           <LastState Value="" RealAddress="00000000"/>
           <GroupHeader>1</GroupHeader>
@@ -14723,7 +14723,7 @@
         </CheatEntry>
         <CheatEntry>
           <ID>727</ID>
-          <Description>"Line 18"</Description>
+          <Description>"Line 19"</Description>
           <Options moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
           <LastState Value="" RealAddress="00000000"/>
           <GroupHeader>1</GroupHeader>
@@ -14788,7 +14788,7 @@
         </CheatEntry>
         <CheatEntry>
           <ID>735</ID>
-          <Description>"Line 19"</Description>
+          <Description>"Line 20"</Description>
           <Options moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
           <LastState Value="" RealAddress="00000000"/>
           <GroupHeader>1</GroupHeader>
@@ -14853,7 +14853,7 @@
         </CheatEntry>
         <CheatEntry>
           <ID>901</ID>
-          <Description>"Line 20"</Description>
+          <Description>"Line 21"</Description>
           <Options moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
           <LastState Value="" RealAddress="00000000"/>
           <GroupHeader>1</GroupHeader>
@@ -16489,12 +16489,6 @@
           </CheatEntries>
         </CheatEntry>
       </CheatEntries>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>1100</ID>
-      <Description>"Versus"</Description>
-      <LastState Value="" RealAddress="00000000"/>
-      <GroupHeader>1</GroupHeader>
     </CheatEntry>
   </CheatEntries>
   <UserdefinedSymbols/>
