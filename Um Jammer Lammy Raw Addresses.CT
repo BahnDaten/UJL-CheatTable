@@ -13622,22 +13622,6 @@
               <ByteLength>9</ByteLength>
               <Address>001D4ECC</Address>
             </CheatEntry>
-            <CheatEntry>
-              <ID>2265</ID>
-              <Description>"4"</Description>
-              <ShowAsHex>1</ShowAsHex>
-              <VariableType>Array of byte</VariableType>
-              <ByteLength>9</ByteLength>
-              <Address>001D4CAC</Address>
-            </CheatEntry>
-            <CheatEntry>
-              <ID>2266</ID>
-              <Description>"4"</Description>
-              <ShowAsHex>1</ShowAsHex>
-              <VariableType>Array of byte</VariableType>
-              <ByteLength>9</ByteLength>
-              <Address>001D4ECC</Address>
-            </CheatEntry>
           </CheatEntries>
         </CheatEntry>
         <CheatEntry>
