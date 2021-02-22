@@ -3796,7 +3796,7 @@
           <CheatEntries>
             <CheatEntry>
               <ID>870</ID>
-              <Description>"PaRappa VS Variant"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>21</ByteLength>
@@ -3804,7 +3804,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>869</ID>
-              <Description>"PaRappa VS Variant"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>21</ByteLength>
@@ -3812,7 +3812,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>71</ID>
-              <Description>"PaRappa VS Variant"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>21</ByteLength>
@@ -3820,7 +3820,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>66</ID>
-              <Description>"PaRappa VS Variant"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>21</ByteLength>
@@ -3828,7 +3828,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>68</ID>
-              <Description>"PaRappa VS Variant"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>21</ByteLength>
@@ -3836,11 +3836,91 @@
             </CheatEntry>
             <CheatEntry>
               <ID>899</ID>
-              <Description>"PaRappa VS Variant"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>21</ByteLength>
               <Address>001CF494</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2602</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001CF610</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2603</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001CF78C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2604</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001CF908</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2605</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001CFA84</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2606</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001CFC00</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2607</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001CFD7C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2608</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001CFEF8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2609</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001D0074</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2610</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001D01F0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2611</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001D036C</Address>
             </CheatEntry>
           </CheatEntries>
         </CheatEntry>
@@ -3853,7 +3933,7 @@
           <CheatEntries>
             <CheatEntry>
               <ID>873</ID>
-              <Description>"PaRappa VS Line 2 Variant"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>21</ByteLength>
@@ -3861,7 +3941,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>872</ID>
-              <Description>"PaRappa VS Line 2 Variant"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>21</ByteLength>
@@ -3869,7 +3949,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>83</ID>
-              <Description>"PaRappa VS Line 2 Variant"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>21</ByteLength>
@@ -3877,7 +3957,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>79</ID>
-              <Description>"PaRappa VS Line 2 Variant"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>21</ByteLength>
@@ -3885,7 +3965,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>82</ID>
-              <Description>"PaRappa VS Line 2 Variant"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>21</ByteLength>
@@ -3893,11 +3973,91 @@
             </CheatEntry>
             <CheatEntry>
               <ID>84</ID>
-              <Description>"PaRappa VS Line 2 Variant"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>21</ByteLength>
               <Address>001CF4B4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2612</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001CF630</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2613</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001CF7AC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2614</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001CF928</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2615</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001CFAA4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2616</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001CFC20</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2617</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001CFD9C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2618</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001CFF18</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2619</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001D0094</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2620</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001D0210</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2621</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001D038C</Address>
             </CheatEntry>
           </CheatEntries>
         </CheatEntry>
@@ -3910,7 +4070,7 @@
           <CheatEntries>
             <CheatEntry>
               <ID>876</ID>
-              <Description>"PaRappa VS Line 3 Variant"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -3918,7 +4078,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>875</ID>
-              <Description>"PaRappa VS Line 3 Variant"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -3926,7 +4086,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>85</ID>
-              <Description>"PaRappa VS Line 3 Variant"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -3934,7 +4094,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>86</ID>
-              <Description>"PaRappa VS Line 3 Variant"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -3942,7 +4102,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>88</ID>
-              <Description>"PaRappa VS Line 3 Variant"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -3950,11 +4110,91 @@
             </CheatEntry>
             <CheatEntry>
               <ID>108</ID>
-              <Description>"PaRappa VS Line 3 Variant"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
               <Address>001CF4D4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2622</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CF650</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2623</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CF7CC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2624</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CF948</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2625</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CFAC4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2626</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CFC40</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2627</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CFDBC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2628</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CFF38</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2629</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001D00B4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2630</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001D0230</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2631</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001D03AC</Address>
             </CheatEntry>
           </CheatEntries>
         </CheatEntry>
@@ -3967,7 +4207,7 @@
           <CheatEntries>
             <CheatEntry>
               <ID>879</ID>
-              <Description>"PaRappa VS Line 4"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>24</ByteLength>
@@ -3975,7 +4215,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>878</ID>
-              <Description>"PaRappa VS Line 4"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>24</ByteLength>
@@ -3983,7 +4223,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>101</ID>
-              <Description>"PaRappa VS Line 4"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>24</ByteLength>
@@ -3991,7 +4231,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>102</ID>
-              <Description>"PaRappa VS Line 4"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>24</ByteLength>
@@ -3999,7 +4239,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>103</ID>
-              <Description>"PaRappa VS Line 4"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>24</ByteLength>
@@ -4007,11 +4247,91 @@
             </CheatEntry>
             <CheatEntry>
               <ID>106</ID>
-              <Description>"PaRappa VS Line 4"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>24</ByteLength>
               <Address>001CF500</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2632</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>24</ByteLength>
+              <Address>001CF67C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2693</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>24</ByteLength>
+              <Address>001CF7F8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2694</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>24</ByteLength>
+              <Address>001CF974</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2695</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>24</ByteLength>
+              <Address>001CFAF0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2696</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>24</ByteLength>
+              <Address>001CFC6C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2697</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>24</ByteLength>
+              <Address>001CFDE8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2698</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>24</ByteLength>
+              <Address>001CFF64</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2699</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>24</ByteLength>
+              <Address>001D00E0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2700</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>24</ByteLength>
+              <Address>001D025C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2701</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>24</ByteLength>
+              <Address>001D03D8</Address>
             </CheatEntry>
           </CheatEntries>
         </CheatEntry>
@@ -4024,7 +4344,7 @@
           <CheatEntries>
             <CheatEntry>
               <ID>893</ID>
-              <Description>"PaRappa VS Line 5"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -4032,7 +4352,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>887</ID>
-              <Description>"PaRappa VS Line 5"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -4040,7 +4360,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>110</ID>
-              <Description>"PaRappa VS Line 5"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -4048,7 +4368,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>111</ID>
-              <Description>"PaRappa VS Line 5"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -4056,7 +4376,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>112</ID>
-              <Description>"PaRappa VS Line 5"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -4064,7 +4384,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>113</ID>
-              <Description>"PaRappa VS Line 5"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -4072,11 +4392,83 @@
             </CheatEntry>
             <CheatEntry>
               <ID>886</ID>
-              <Description>"PaRappa VS Line 5"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
               <Address>001CF69C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2633</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CF818</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2685</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CF994</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2686</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CFB10</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2687</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CFC8C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2688</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CFE08</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2689</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CFF84</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2690</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001D0100</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2691</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001D027C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2692</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001D03F8</Address>
             </CheatEntry>
           </CheatEntries>
         </CheatEntry>
@@ -4089,7 +4481,7 @@
           <CheatEntries>
             <CheatEntry>
               <ID>894</ID>
-              <Description>"PaRappa VS Line 6"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -4097,7 +4489,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>888</ID>
-              <Description>"PaRappa VS Line 6"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -4105,7 +4497,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>115</ID>
-              <Description>"PaRappa VS Line 6"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -4113,7 +4505,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>116</ID>
-              <Description>"PaRappa VS Line 6"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -4121,7 +4513,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>117</ID>
-              <Description>"PaRappa VS Line 6"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -4129,11 +4521,91 @@
             </CheatEntry>
             <CheatEntry>
               <ID>118</ID>
-              <Description>"PaRappa VS Line 6"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
               <Address>001CF54C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2634</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CF6C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2639</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CF844</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2677</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CF9C0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2678</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CFB3C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2679</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CFCB8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2680</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CFE34</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2681</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CFFB0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2682</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001D012C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2683</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001D02A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2684</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001D0424</Address>
             </CheatEntry>
           </CheatEntries>
         </CheatEntry>
@@ -4146,7 +4618,7 @@
           <CheatEntries>
             <CheatEntry>
               <ID>895</ID>
-              <Description>"PaRappa VS Line 7 Variant"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -4154,7 +4626,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>889</ID>
-              <Description>"PaRappa VS Line 7 Variant"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -4162,7 +4634,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>120</ID>
-              <Description>"PaRappa VS Line 7 Variant"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -4170,7 +4642,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>121</ID>
-              <Description>"PaRappa VS Line 7 Variant"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -4178,7 +4650,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>122</ID>
-              <Description>"PaRappa VS Line 7 Variant"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -4186,11 +4658,91 @@
             </CheatEntry>
             <CheatEntry>
               <ID>123</ID>
-              <Description>"PaRappa VS Line 7 Variant"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
               <Address>001CF578</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2635</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CF6F4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2640</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CF870</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2668</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CF9EC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2670</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CFB68</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2671</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CFCE4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2672</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CFE60</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2673</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CFFDC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2674</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001D0158</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2675</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001D02D4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2676</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001D0450</Address>
             </CheatEntry>
           </CheatEntries>
         </CheatEntry>
@@ -4203,7 +4755,7 @@
           <CheatEntries>
             <CheatEntry>
               <ID>896</ID>
-              <Description>"PaRappa VS Line 8"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>23</ByteLength>
@@ -4211,7 +4763,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>890</ID>
-              <Description>"PaRappa VS Line 8"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>23</ByteLength>
@@ -4219,7 +4771,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>125</ID>
-              <Description>"PaRappa VS Line 8"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>23</ByteLength>
@@ -4227,7 +4779,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>126</ID>
-              <Description>"PaRappa VS Line 8"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>23</ByteLength>
@@ -4235,7 +4787,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>127</ID>
-              <Description>"PaRappa VS Line 8"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>23</ByteLength>
@@ -4243,11 +4795,91 @@
             </CheatEntry>
             <CheatEntry>
               <ID>128</ID>
-              <Description>"PaRappa VS Line 8"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>23</ByteLength>
               <Address>001CF5A4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2636</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>23</ByteLength>
+              <Address>001CF720</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2641</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>23</ByteLength>
+              <Address>001CF89C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2660</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>23</ByteLength>
+              <Address>001CFA18</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2661</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>23</ByteLength>
+              <Address>001CFB94</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2662</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>23</ByteLength>
+              <Address>001CFD10</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2663</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>23</ByteLength>
+              <Address>001CFE8C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2664</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>23</ByteLength>
+              <Address>001D0008</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2665</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>23</ByteLength>
+              <Address>001D0184</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2666</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>23</ByteLength>
+              <Address>001D0300</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2667</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>23</ByteLength>
+              <Address>001D047C</Address>
             </CheatEntry>
           </CheatEntries>
         </CheatEntry>
@@ -4260,7 +4892,7 @@
           <CheatEntries>
             <CheatEntry>
               <ID>897</ID>
-              <Description>"PaRappa VS Line 9"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -4268,7 +4900,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>891</ID>
-              <Description>"PaRappa VS Line 9"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -4276,7 +4908,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>130</ID>
-              <Description>"PaRappa VS Line 9"</Description>
+              <Description>"Co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -4284,7 +4916,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>131</ID>
-              <Description>"PaRappa VS Line 9"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -4292,7 +4924,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>132</ID>
-              <Description>"PaRappa VS Line 9"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
@@ -4300,11 +4932,91 @@
             </CheatEntry>
             <CheatEntry>
               <ID>133</ID>
-              <Description>"PaRappa VS Line 9"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>35</ByteLength>
               <Address>001CF5C4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2637</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CF740</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2642</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CF8BC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2652</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CFA38</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2653</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CFBB4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2654</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CFD30</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2655</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001CFEAC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2656</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001D0028</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2657</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001D01A4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2658</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001D0320</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2659</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>35</ByteLength>
+              <Address>001D049C</Address>
             </CheatEntry>
           </CheatEntries>
         </CheatEntry>
@@ -4317,7 +5029,7 @@
           <CheatEntries>
             <CheatEntry>
               <ID>898</ID>
-              <Description>"PaRappa VS Line 10"</Description>
+              <Description>"co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>21</ByteLength>
@@ -4325,7 +5037,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>892</ID>
-              <Description>"PaRappa VS Line 10"</Description>
+              <Description>"co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>21</ByteLength>
@@ -4333,7 +5045,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>135</ID>
-              <Description>"PaRappa VS Line 10"</Description>
+              <Description>"co-op"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>21</ByteLength>
@@ -4341,7 +5053,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>136</ID>
-              <Description>"PaRappa VS Line 10"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>21</ByteLength>
@@ -4349,7 +5061,7 @@
             </CheatEntry>
             <CheatEntry>
               <ID>137</ID>
-              <Description>"PaRappa VS Line 10"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>21</ByteLength>
@@ -4357,11 +5069,91 @@
             </CheatEntry>
             <CheatEntry>
               <ID>138</ID>
-              <Description>"PaRappa VS Line 10"</Description>
+              <Description>"1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <VariableType>Array of byte</VariableType>
               <ByteLength>21</ByteLength>
               <Address>001CF5F0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2638</ID>
+              <Description>"1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001CF76C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2643</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001CF8E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2644</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001CFA64</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2645</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001CFBE0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2646</ID>
+              <Description>"2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001CFD5C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2647</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001CFED8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2648</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001D0054</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2649</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001D01D0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2650</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001D034C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2651</ID>
+              <Description>"3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>21</ByteLength>
+              <Address>001D04C8</Address>
             </CheatEntry>
           </CheatEntries>
         </CheatEntry>
