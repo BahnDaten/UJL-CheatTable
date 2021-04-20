@@ -17530,11 +17530,2360 @@
             </CheatEntry>
             <CheatEntry>
               <ID>5455</ID>
-              <Description>"Stage 7 Rammy Lines"</Description>
+              <Description>"Stage 7 Rammy VS Lines"</Description>
               <Options moManualExpandCollapse="1"/>
               <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
+                <CheatEntry>
+                  <ID>5767</ID>
+                  <Description>"Cool"</Description>
+                  <Options moManualExpandCollapse="1"/>
+                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <GroupHeader>1</GroupHeader>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>5694</ID>
+                      <Description>"Co-op"</Description>
+                      <Options moManualExpandCollapse="1"/>
+                      <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                      <GroupHeader>1</GroupHeader>
+                      <CheatEntries>
+                        <CheatEntry>
+                          <ID>5695</ID>
+                          <Description>"Set 1"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D472C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5696</ID>
+                          <Description>"Set 1"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4754</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5697</ID>
+                          <Description>"Set 1"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D477C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5698</ID>
+                          <Description>"Set 1"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D47A4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5699</ID>
+                          <Description>"Set 1"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D47CC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5700</ID>
+                          <Description>"Set 1"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D47F4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5701</ID>
+                          <Description>"Set 1"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D481C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5702</ID>
+                          <Description>"Set 1"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4844</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5703</ID>
+                          <Description>"Set 1"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D486C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5704</ID>
+                          <Description>"Set 1"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4894</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5705</ID>
+                          <Description>"Set 1"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D48BC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5706</ID>
+                          <Description>"Set 1"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D48E4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5707</ID>
+                          <Description>"Set 1"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D490C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5708</ID>
+                          <Description>"Set 1"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4934</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5709</ID>
+                          <Description>"Set 1"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D495C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5710</ID>
+                          <Description>"Set 1"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4984</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5711</ID>
+                          <Description>"Set 1"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D49AC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5712</ID>
+                          <Description>"Set 1"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D49D4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5713</ID>
+                          <Description>"Set 2"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D49FC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5714</ID>
+                          <Description>"Set 2"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4A24</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5715</ID>
+                          <Description>"Set 2"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4A4C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5716</ID>
+                          <Description>"Set 2"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4A74</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5717</ID>
+                          <Description>"Set 2"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4A9C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5718</ID>
+                          <Description>"Set 2"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4AC4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5719</ID>
+                          <Description>"Set 2"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4AEC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5720</ID>
+                          <Description>"Set 2"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4B14</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5721</ID>
+                          <Description>"Set 2"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4B3C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5722</ID>
+                          <Description>"Set 2"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4B64</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5723</ID>
+                          <Description>"Set 2"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4B8C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5724</ID>
+                          <Description>"Set 2"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4BB4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5725</ID>
+                          <Description>"Set 2"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4BDC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5726</ID>
+                          <Description>"Set 2"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4C04</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5727</ID>
+                          <Description>"Set 2"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4C2C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5728</ID>
+                          <Description>"Set 2"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4C54</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5729</ID>
+                          <Description>"Set 2"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4C7C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5730</ID>
+                          <Description>"Set 2"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4CA4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5731</ID>
+                          <Description>"Set 3"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4CCC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5732</ID>
+                          <Description>"Set 3"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4CF4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5733</ID>
+                          <Description>"Set 3"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4D1C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5734</ID>
+                          <Description>"Set 3"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4D44</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5735</ID>
+                          <Description>"Set 3"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4D6C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5736</ID>
+                          <Description>"Set 3"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4D94</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5737</ID>
+                          <Description>"Set 3"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4DBC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5738</ID>
+                          <Description>"Set 3"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4DE4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5739</ID>
+                          <Description>"Set 3"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4E0C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5740</ID>
+                          <Description>"Set 3"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4E34</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5741</ID>
+                          <Description>"Set 3"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4E5C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5742</ID>
+                          <Description>"Set 3"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4E84</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5743</ID>
+                          <Description>"Set 3"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4EAC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5744</ID>
+                          <Description>"Set 3"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4ED4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5745</ID>
+                          <Description>"Set 3"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4EFC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5746</ID>
+                          <Description>"Set 3"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4F24</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5747</ID>
+                          <Description>"Set 3"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4F4C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5748</ID>
+                          <Description>"Set 3"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4F74</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5749</ID>
+                          <Description>"Set 4"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4F9C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5750</ID>
+                          <Description>"Set 4"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4FC4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5751</ID>
+                          <Description>"Set 4"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D4FEC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5752</ID>
+                          <Description>"Set 4"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5014</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5753</ID>
+                          <Description>"Set 4"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D503C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5754</ID>
+                          <Description>"Set 4"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5064</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5755</ID>
+                          <Description>"Set 4"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D508C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5756</ID>
+                          <Description>"Set 4"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D50B4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5757</ID>
+                          <Description>"Set 4"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D50DC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5758</ID>
+                          <Description>"Set 4"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5104</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5759</ID>
+                          <Description>"Set 4"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D512C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5760</ID>
+                          <Description>"Set 4"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5154</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5761</ID>
+                          <Description>"Set 4"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D517C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5762</ID>
+                          <Description>"Set 4"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D51A4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5763</ID>
+                          <Description>"Set 4"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D51CC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5764</ID>
+                          <Description>"Set 4"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D51F4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5765</ID>
+                          <Description>"Set 4"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D521C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5766</ID>
+                          <Description>"Set 4"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5244</Address>
+                        </CheatEntry>
+                      </CheatEntries>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>5621</ID>
+                      <Description>"Difficulty 1"</Description>
+                      <Options moManualExpandCollapse="1"/>
+                      <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                      <GroupHeader>1</GroupHeader>
+                      <CheatEntries>
+                        <CheatEntry>
+                          <ID>5622</ID>
+                          <Description>"Set 5"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D526C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5623</ID>
+                          <Description>"Set 5"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5294</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5624</ID>
+                          <Description>"Set 5"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D52BC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5625</ID>
+                          <Description>"Set 5"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D52E4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5626</ID>
+                          <Description>"Set 5"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D530C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5627</ID>
+                          <Description>"Set 5"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5334</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5628</ID>
+                          <Description>"Set 5"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D535C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5629</ID>
+                          <Description>"Set 5"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5384</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5630</ID>
+                          <Description>"Set 5"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D53AC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5631</ID>
+                          <Description>"Set 5"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D53D4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5632</ID>
+                          <Description>"Set 5"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D53FC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5633</ID>
+                          <Description>"Set 5"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5424</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5634</ID>
+                          <Description>"Set 5"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D544C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5635</ID>
+                          <Description>"Set 5"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5474</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5636</ID>
+                          <Description>"Set 5"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D549C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5637</ID>
+                          <Description>"Set 5"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D54C4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5638</ID>
+                          <Description>"Set 5"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D54EC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5639</ID>
+                          <Description>"Set 5"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5514</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5640</ID>
+                          <Description>"Set 6"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D553C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5641</ID>
+                          <Description>"Set 6"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5564</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5642</ID>
+                          <Description>"Set 6"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D558C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5643</ID>
+                          <Description>"Set 6"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D55B4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5644</ID>
+                          <Description>"Set 6"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D55DC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5645</ID>
+                          <Description>"Set 6"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5604</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5646</ID>
+                          <Description>"Set 6"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D562C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5647</ID>
+                          <Description>"Set 6"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5654</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5648</ID>
+                          <Description>"Set 6"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D567C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5649</ID>
+                          <Description>"Set 6"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D56A4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5650</ID>
+                          <Description>"Set 6"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D56CC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5651</ID>
+                          <Description>"Set 6"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D56F4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5652</ID>
+                          <Description>"Set 6"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D571C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5653</ID>
+                          <Description>"Set 6"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5744</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5654</ID>
+                          <Description>"Set 6"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D576C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5655</ID>
+                          <Description>"Set 6"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5794</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5656</ID>
+                          <Description>"Set 6"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D57BC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5657</ID>
+                          <Description>"Set 6"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D57E4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5658</ID>
+                          <Description>"Set 7"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D580C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5659</ID>
+                          <Description>"Set 7"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5834</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5660</ID>
+                          <Description>"Set 7"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D585C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5661</ID>
+                          <Description>"Set 7"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5884</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5662</ID>
+                          <Description>"Set 7"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D58AC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5663</ID>
+                          <Description>"Set 7"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D58D4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5664</ID>
+                          <Description>"Set 7"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D58FC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5665</ID>
+                          <Description>"Set 7"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5924</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5666</ID>
+                          <Description>"Set 7"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D594C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5667</ID>
+                          <Description>"Set 7"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5974</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5668</ID>
+                          <Description>"Set 7"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D599C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5669</ID>
+                          <Description>"Set 7"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D59C4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5670</ID>
+                          <Description>"Set 7"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D59EC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5671</ID>
+                          <Description>"Set 7"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5A14</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5672</ID>
+                          <Description>"Set 7"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5A3C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5673</ID>
+                          <Description>"Set 7"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5A64</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5674</ID>
+                          <Description>"Set 7"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5A8C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5675</ID>
+                          <Description>"Set 7"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5AB4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5676</ID>
+                          <Description>"Set 8"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5ADC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5677</ID>
+                          <Description>"Set 8"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5B04</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5678</ID>
+                          <Description>"Set 8"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5B2C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5679</ID>
+                          <Description>"Set 8"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5B54</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5680</ID>
+                          <Description>"Set 8"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5B7C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5681</ID>
+                          <Description>"Set 8"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5BA4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5682</ID>
+                          <Description>"Set 8"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5BCC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5683</ID>
+                          <Description>"Set 8"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5BF4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5684</ID>
+                          <Description>"Set 8"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5C1C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5685</ID>
+                          <Description>"Set 8"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5C44</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5686</ID>
+                          <Description>"Set 8"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5C6C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5687</ID>
+                          <Description>"Set 8"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5C94</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5688</ID>
+                          <Description>"Set 8"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5CBC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5689</ID>
+                          <Description>"Set 8"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5CE4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5690</ID>
+                          <Description>"Set 8"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5D0C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5691</ID>
+                          <Description>"Set 8"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5D34</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5692</ID>
+                          <Description>"Set 8"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5D5C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5693</ID>
+                          <Description>"Set 8"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5D84</Address>
+                        </CheatEntry>
+                      </CheatEntries>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>5548</ID>
+                      <Description>"Difficulty 2"</Description>
+                      <Options moManualExpandCollapse="1"/>
+                      <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                      <GroupHeader>1</GroupHeader>
+                      <CheatEntries>
+                        <CheatEntry>
+                          <ID>5549</ID>
+                          <Description>"Set 9"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5DAC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5550</ID>
+                          <Description>"Set 9"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5DD4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5551</ID>
+                          <Description>"Set 9"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5DFC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5552</ID>
+                          <Description>"Set 9"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5E24</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5553</ID>
+                          <Description>"Set 9"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5E4C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5554</ID>
+                          <Description>"Set 9"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5E74</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5555</ID>
+                          <Description>"Set 9"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5E9C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5556</ID>
+                          <Description>"Set 9"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5EC4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5557</ID>
+                          <Description>"Set 9"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5EEC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5558</ID>
+                          <Description>"Set 9"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5F14</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5559</ID>
+                          <Description>"Set 9"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5F3C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5560</ID>
+                          <Description>"Set 9"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5F64</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5561</ID>
+                          <Description>"Set 9"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5F8C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5562</ID>
+                          <Description>"Set 9"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5FB4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5563</ID>
+                          <Description>"Set 9"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D5FDC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5564</ID>
+                          <Description>"Set 9"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6004</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5565</ID>
+                          <Description>"Set 9"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D602C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5566</ID>
+                          <Description>"Set 9"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6054</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5567</ID>
+                          <Description>"Set 10"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D607C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5568</ID>
+                          <Description>"Set 10"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D60A4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5569</ID>
+                          <Description>"Set 10"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D60CC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5570</ID>
+                          <Description>"Set 10"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D60F4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5571</ID>
+                          <Description>"Set 10"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D611C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5572</ID>
+                          <Description>"Set 10"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6144</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5573</ID>
+                          <Description>"Set 10"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D616C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5574</ID>
+                          <Description>"Set 10"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6194</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5575</ID>
+                          <Description>"Set 10"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D61BC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5576</ID>
+                          <Description>"Set 10"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D61E4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5577</ID>
+                          <Description>"Set 10"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D620C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5578</ID>
+                          <Description>"Set 10"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6234</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5579</ID>
+                          <Description>"Set 10"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D625C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5580</ID>
+                          <Description>"Set 10"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6284</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5581</ID>
+                          <Description>"Set 10"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D62AC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5582</ID>
+                          <Description>"Set 10"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D62D4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5583</ID>
+                          <Description>"Set 10"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D62FC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5584</ID>
+                          <Description>"Set 10"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6324</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5585</ID>
+                          <Description>"Set 11"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D634C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5586</ID>
+                          <Description>"Set 11"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6374</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5587</ID>
+                          <Description>"Set 11"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D639C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5588</ID>
+                          <Description>"Set 11"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D63C4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5589</ID>
+                          <Description>"Set 11"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D63EC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5590</ID>
+                          <Description>"Set 11"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6414</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5591</ID>
+                          <Description>"Set 11"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D643C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5592</ID>
+                          <Description>"Set 11"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6464</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5593</ID>
+                          <Description>"Set 11"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D648C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5594</ID>
+                          <Description>"Set 11"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D64B4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5595</ID>
+                          <Description>"Set 11"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D64DC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5596</ID>
+                          <Description>"Set 11"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6504</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5597</ID>
+                          <Description>"Set 11"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D652C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5598</ID>
+                          <Description>"Set 11"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6554</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5599</ID>
+                          <Description>"Set 11"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D657C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5600</ID>
+                          <Description>"Set 11"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D65A4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5601</ID>
+                          <Description>"Set 11"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D65CC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5602</ID>
+                          <Description>"Set 11"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D65F4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5603</ID>
+                          <Description>"Set 12"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D661C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5604</ID>
+                          <Description>"Set 12"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6644</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5605</ID>
+                          <Description>"Set 12"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D666C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5606</ID>
+                          <Description>"Set 12"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6694</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5607</ID>
+                          <Description>"Set 12"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D66BC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5608</ID>
+                          <Description>"Set 12"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D66E4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5609</ID>
+                          <Description>"Set 12"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D670C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5610</ID>
+                          <Description>"Set 12"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6734</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5611</ID>
+                          <Description>"Set 12"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D675C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5612</ID>
+                          <Description>"Set 12"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6784</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5613</ID>
+                          <Description>"Set 12"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D67AC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5614</ID>
+                          <Description>"Set 12"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D67D4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5615</ID>
+                          <Description>"Set 12"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D67FC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5616</ID>
+                          <Description>"Set 12"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6824</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5617</ID>
+                          <Description>"Set 12"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D684C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5618</ID>
+                          <Description>"Set 12"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6874</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5619</ID>
+                          <Description>"Set 12"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D689C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5620</ID>
+                          <Description>"Set 12"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D68C4</Address>
+                        </CheatEntry>
+                      </CheatEntries>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>5493</ID>
+                      <Description>"Difficulty 3"</Description>
+                      <Options moManualExpandCollapse="1"/>
+                      <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                      <GroupHeader>1</GroupHeader>
+                      <CheatEntries>
+                        <CheatEntry>
+                          <ID>5530</ID>
+                          <Description>"Set 13"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D68EC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5531</ID>
+                          <Description>"Set 13"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6914</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5532</ID>
+                          <Description>"Set 13"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D693C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5533</ID>
+                          <Description>"Set 13"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6964</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5534</ID>
+                          <Description>"Set 13"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D698C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5535</ID>
+                          <Description>"Set 13"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D69B4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5536</ID>
+                          <Description>"Set 13"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D69DC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5537</ID>
+                          <Description>"Set 13"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6A04</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5538</ID>
+                          <Description>"Set 13"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6A2C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5539</ID>
+                          <Description>"Set 13"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6A54</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5540</ID>
+                          <Description>"Set 13"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6A7C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5541</ID>
+                          <Description>"Set 13"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6AA4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5542</ID>
+                          <Description>"Set 13"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6ACC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5543</ID>
+                          <Description>"Set 13"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6AF4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5544</ID>
+                          <Description>"Set 13"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6B1C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5545</ID>
+                          <Description>"Set 13"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6B44</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5546</ID>
+                          <Description>"Set 13"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6B6C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5547</ID>
+                          <Description>"Set 13"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6B94</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5512</ID>
+                          <Description>"Set 14"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6BBC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5513</ID>
+                          <Description>"Set 14"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6BE4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5514</ID>
+                          <Description>"Set 14"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6C0C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5515</ID>
+                          <Description>"Set 14"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6C34</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5516</ID>
+                          <Description>"Set 14"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6C5C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5517</ID>
+                          <Description>"Set 14"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6C84</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5518</ID>
+                          <Description>"Set 14"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6CAC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5519</ID>
+                          <Description>"Set 14"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6CD4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5520</ID>
+                          <Description>"Set 14"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6CFC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5521</ID>
+                          <Description>"Set 14"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6D24</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5522</ID>
+                          <Description>"Set 14"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6D4C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5523</ID>
+                          <Description>"Set 14"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6D74</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5524</ID>
+                          <Description>"Set 14"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6D9C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5525</ID>
+                          <Description>"Set 14"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6DC4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5526</ID>
+                          <Description>"Set 14"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6DEC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5527</ID>
+                          <Description>"Set 14"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6E14</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5528</ID>
+                          <Description>"Set 14"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6E3C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5529</ID>
+                          <Description>"Set 14"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6E64</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5494</ID>
+                          <Description>"Set 15"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6E8C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5495</ID>
+                          <Description>"Set 15"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6EB4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5496</ID>
+                          <Description>"Set 15"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6EDC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5497</ID>
+                          <Description>"Set 15"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6F04</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5498</ID>
+                          <Description>"Set 15"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6F2C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5499</ID>
+                          <Description>"Set 15"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6F54</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5500</ID>
+                          <Description>"Set 15"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6F7C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5501</ID>
+                          <Description>"Set 15"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6FA4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5502</ID>
+                          <Description>"Set 15"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6FCC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5503</ID>
+                          <Description>"Set 15"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D6FF4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5504</ID>
+                          <Description>"Set 15"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D701C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5505</ID>
+                          <Description>"Set 15"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D7044</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5506</ID>
+                          <Description>"Set 15"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D706C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5507</ID>
+                          <Description>"Set 15"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D7094</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5508</ID>
+                          <Description>"Set 15"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D70BC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5509</ID>
+                          <Description>"Set 15"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D70E4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5510</ID>
+                          <Description>"Set 15"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D710C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5511</ID>
+                          <Description>"Set 15"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D7134</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5474</ID>
+                          <Description>"Set 16"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D715C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5475</ID>
+                          <Description>"Set 16"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D7184</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5476</ID>
+                          <Description>"Set 16"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D71AC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5477</ID>
+                          <Description>"Set 16"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D71D4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5478</ID>
+                          <Description>"Set 16"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D71FC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5479</ID>
+                          <Description>"Set 16"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D7224</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5467</ID>
+                          <Description>"Set 16"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D724C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5466</ID>
+                          <Description>"Set 16"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D7274</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5465</ID>
+                          <Description>"Set 16"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D729C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5456</ID>
+                          <Description>"Set 16"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D72C4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5457</ID>
+                          <Description>"Set 16"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D72EC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5458</ID>
+                          <Description>"Set 16"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D7314</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5459</ID>
+                          <Description>"Set 16"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D733C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5460</ID>
+                          <Description>"Set 16"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D7364</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5461</ID>
+                          <Description>"Set 16"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D738C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5462</ID>
+                          <Description>"Set 16"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D73B4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5463</ID>
+                          <Description>"Set 16"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D73DC</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>5464</ID>
+                          <Description>"Set 16"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <VariableType>Array of byte</VariableType>
+                          <ByteLength>31</ByteLength>
+                          <Address>001D7404</Address>
+                        </CheatEntry>
+                      </CheatEntries>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
                 <CheatEntry>
                   <ID>5114</ID>
                   <Description>"Line 1"</Description>
