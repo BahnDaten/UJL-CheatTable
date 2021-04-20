@@ -237,12 +237,6 @@
       <Address>001A5910</Address>
     </CheatEntry>
     <CheatEntry>
-      <ID>35</ID>
-      <Description>"Easy mode"</Description>
-      <VariableType>2 Bytes</VariableType>
-      <Address>001DB230</Address>
-    </CheatEntry>
-    <CheatEntry>
       <ID>36</ID>
       <Description>"P2"</Description>
       <VariableType>Byte</VariableType>
