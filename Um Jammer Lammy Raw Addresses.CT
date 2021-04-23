@@ -86,7 +86,7 @@
         <CheatEntry>
           <ID>5770</ID>
           <Description>"Player 1 Versus Difference"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
+          <ShowAsSigned>1</ShowAsSigned>
           <VariableType>2 Bytes</VariableType>
           <Address>00078D0E</Address>
         </CheatEntry>
@@ -122,12 +122,30 @@
         <CheatEntry>
           <ID>55</ID>
           <Description>"Internal Rappin"</Description>
+          <DropDownList DisplayValueAsItem="1">0:Cool
+1:Good
+2:Bad
+3:Awful
+</DropDownList>
           <VariableType>Byte</VariableType>
           <Address>00072798</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>12</ID>
           <Description>"P2 Rappin"</Description>
+          <DropDownList DisplayValueAsItem="1">0:Cool
+2:Cool-Good
+3:Good-Cool
+4:Good
+6:Good-Bad
+7:Bad-Good
+8:Bad
+10:Bad-Awful
+11:Awful-Bad
+12:Awful
+14:Failing
+16:Failed
+</DropDownList>
           <VariableType>2 Bytes</VariableType>
           <Address>0007279A</Address>
         </CheatEntry>
@@ -184,7 +202,7 @@
         <CheatEntry>
           <ID>5769</ID>
           <Description>"Player 2 Versus Difference"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
+          <ShowAsSigned>1</ShowAsSigned>
           <VariableType>2 Bytes</VariableType>
           <Address>00078D10</Address>
         </CheatEntry>
