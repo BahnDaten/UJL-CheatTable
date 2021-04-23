@@ -11,18 +11,43 @@
         <CheatEntry>
           <ID>54</ID>
           <Description>"Internal Rappin"</Description>
+          <DropDownList DisplayValueAsItem="1">0:Cool
+1:Good
+2:Bad
+3:Awful
+</DropDownList>
           <VariableType>Byte</VariableType>
           <Address>0007278E</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>56</ID>
           <Description>"U Rappin"</Description>
+          <DropDownList DisplayValueAsItem="1">0:Cool
+2:Cool-Good
+3:Good-Cool
+4:Good
+6:Good-Bad
+7:Bad-Good
+8:Bad
+10:Bad-Awful
+11:Awful-Bad
+12:Awful
+14:Failing
+16:Failed
+</DropDownList>
           <VariableType>2 Bytes</VariableType>
           <Address>00072790</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>2</ID>
           <Description>"AI"</Description>
+          <DropDownList DisplayValueAsItem="1">0:Controller 1
+1:Controller 2
+2:AI
+3:Demo
+4:Replay
+5:???
+</DropDownList>
           <VariableType>2 Bytes</VariableType>
           <Address>000726B8</Address>
         </CheatEntry>
@@ -57,6 +82,13 @@
           <VariableType>Array of byte</VariableType>
           <ByteLength>16</ByteLength>
           <Address>000726D1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5770</ID>
+          <Description>"Player 1 Versus Difference"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00078D0E</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>10</ID>
@@ -150,6 +182,29 @@
           <Address>00078D14</Address>
         </CheatEntry>
         <CheatEntry>
+          <ID>5769</ID>
+          <Description>"Player 2 Versus Difference"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00078D10</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5768</ID>
+          <Description>"Player 2 AI Difficulty"</Description>
+          <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">0:Co-Op
+1:Level 1
+2:Level 2
+3:NOT TESTED
+4:Level 3
+5:NOT TESTED
+6:NOT TESTED
+7:Level 4
+</DropDownList>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>000790CD</Address>
+        </CheatEntry>
+        <CheatEntry>
           <ID>511</ID>
           <Description>"Player 2 Music"</Description>
           <VariableType>Byte</VariableType>
@@ -195,7 +250,7 @@
     </CheatEntry>
     <CheatEntry>
       <ID>1114</ID>
-      <Description>"HUD"</Description>
+      <Description>"Rhythm Timeline Visibility"</Description>
       <VariableType>2 Bytes</VariableType>
       <Address>00069B64</Address>
     </CheatEntry>
@@ -216,6 +271,26 @@
       <Description>"Stage"</Description>
       <VariableType>2 Bytes</VariableType>
       <Address>000790B8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5771</ID>
+      <Description>"Subtitles"</Description>
+      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">0:Off
+1:On
+</DropDownList>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>001A5914</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5772</ID>
+      <Description>"Vibration (UJL, NTSC)"</Description>
+      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">0:Off
+1:On
+</DropDownList>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>001A590C</Address>
     </CheatEntry>
     <CheatEntry>
       <ID>19</ID>
@@ -277,7 +352,7 @@
           <ID>5096</ID>
           <Description>"Rammy"</Description>
           <Options moManualExpandCollapse="1"/>
-          <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+          <LastState Value="" RealAddress="00000000"/>
           <GroupHeader>1</GroupHeader>
           <CheatEntries>
             <CheatEntry>
@@ -6907,21 +6982,21 @@
               <ID>4181</ID>
               <Description>"Stage 4 Rammy VS Lines"</Description>
               <Options moManualExpandCollapse="1"/>
-              <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+              <LastState Value="" RealAddress="00000000"/>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
                   <ID>4644</ID>
                   <Description>"Cool"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
                       <ID>4595</ID>
                       <Description>"Co-op"</Description>
                       <Options moManualExpandCollapse="1"/>
-                      <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
@@ -7314,7 +7389,7 @@
                       <ID>4546</ID>
                       <Description>"Difficulty 1"</Description>
                       <Options moManualExpandCollapse="1"/>
-                      <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
@@ -7707,7 +7782,7 @@
                       <ID>4497</ID>
                       <Description>"Difficulty 2"</Description>
                       <Options moManualExpandCollapse="1"/>
-                      <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
@@ -8100,7 +8175,7 @@
                       <ID>4496</ID>
                       <Description>"Difficulty 3"</Description>
                       <Options moManualExpandCollapse="1"/>
-                      <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
@@ -8495,7 +8570,7 @@
                   <ID>4193</ID>
                   <Description>"Line 1"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -8632,7 +8707,7 @@
                   <ID>4192</ID>
                   <Description>"Line 2"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -8769,7 +8844,7 @@
                   <ID>4210</ID>
                   <Description>"Line 3"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -8906,7 +8981,7 @@
                   <ID>4227</ID>
                   <Description>"Line 4"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -9043,7 +9118,7 @@
                   <ID>4244</ID>
                   <Description>"Line 5"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -9180,7 +9255,7 @@
                   <ID>4261</ID>
                   <Description>"Line 6"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -9317,7 +9392,7 @@
                   <ID>4278</ID>
                   <Description>"Line 7"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -9454,7 +9529,7 @@
                   <ID>4295</ID>
                   <Description>"Line 8"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -9591,7 +9666,7 @@
                   <ID>4312</ID>
                   <Description>"Line 9"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -9728,7 +9803,7 @@
                   <ID>4329</ID>
                   <Description>"Line 10"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -9865,7 +9940,7 @@
                   <ID>4346</ID>
                   <Description>"Line 11"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -10002,7 +10077,7 @@
                   <ID>4363</ID>
                   <Description>"Line 12"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -10139,7 +10214,7 @@
                   <ID>4380</ID>
                   <Description>"Line 13"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -10276,7 +10351,7 @@
                   <ID>4397</ID>
                   <Description>"Line 14"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -10413,7 +10488,7 @@
                   <ID>4414</ID>
                   <Description>"Line 15"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -10550,7 +10625,7 @@
                   <ID>4431</ID>
                   <Description>"Line 16"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -10689,21 +10764,21 @@
               <ID>4866</ID>
               <Description>"Stage 5 Rammy VS Lines"</Description>
               <Options moManualExpandCollapse="1"/>
-              <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+              <LastState Value="" RealAddress="00000000"/>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
                   <ID>5095</ID>
                   <Description>"Cool"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
                       <ID>5038</ID>
                       <Description>"Co-op"</Description>
                       <Options moManualExpandCollapse="1"/>
-                      <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
@@ -11160,7 +11235,7 @@
                       <ID>4981</ID>
                       <Description>"Difficulty 1"</Description>
                       <Options moManualExpandCollapse="1"/>
-                      <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
@@ -11617,7 +11692,7 @@
                       <ID>4924</ID>
                       <Description>"Difficulty 2"</Description>
                       <Options moManualExpandCollapse="1"/>
-                      <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
@@ -12074,7 +12149,7 @@
                       <ID>4923</ID>
                       <Description>"Difficulty 3"</Description>
                       <Options moManualExpandCollapse="1"/>
-                      <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
@@ -12533,7 +12608,7 @@
                   <ID>4661</ID>
                   <Description>"Line 1"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -12670,7 +12745,7 @@
                   <ID>4662</ID>
                   <Description>"Line 2"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -12807,7 +12882,7 @@
                   <ID>4679</ID>
                   <Description>"Line 3"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -12944,7 +13019,7 @@
                   <ID>4696</ID>
                   <Description>"Line 4"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -13081,7 +13156,7 @@
                   <ID>4713</ID>
                   <Description>"Line 5"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -13218,7 +13293,7 @@
                   <ID>4730</ID>
                   <Description>"Line 6"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -13355,7 +13430,7 @@
                   <ID>4747</ID>
                   <Description>"Line 7"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -13492,7 +13567,7 @@
                   <ID>4764</ID>
                   <Description>"Line 8"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -13629,7 +13704,7 @@
                   <ID>4781</ID>
                   <Description>"Line 9"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -13766,7 +13841,7 @@
                   <ID>4798</ID>
                   <Description>"Line 10"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -13903,7 +13978,7 @@
                   <ID>4815</ID>
                   <Description>"Line 11"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -14040,7 +14115,7 @@
                   <ID>4832</ID>
                   <Description>"Line 12"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -14177,7 +14252,7 @@
                   <ID>4849</ID>
                   <Description>"Line 13"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -17532,21 +17607,21 @@
               <ID>5455</ID>
               <Description>"Stage 7 Rammy VS Lines"</Description>
               <Options moManualExpandCollapse="1"/>
-              <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+              <LastState Value="" RealAddress="00000000"/>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
                   <ID>5767</ID>
                   <Description>"Cool"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
                       <ID>5694</ID>
                       <Description>"Co-op"</Description>
                       <Options moManualExpandCollapse="1"/>
-                      <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
@@ -18131,7 +18206,7 @@
                       <ID>5621</ID>
                       <Description>"Difficulty 1"</Description>
                       <Options moManualExpandCollapse="1"/>
-                      <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
@@ -18716,7 +18791,7 @@
                       <ID>5548</ID>
                       <Description>"Difficulty 2"</Description>
                       <Options moManualExpandCollapse="1"/>
-                      <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
@@ -19301,7 +19376,7 @@
                       <ID>5493</ID>
                       <Description>"Difficulty 3"</Description>
                       <Options moManualExpandCollapse="1"/>
-                      <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
@@ -19888,7 +19963,7 @@
                   <ID>5114</ID>
                   <Description>"Line 1"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -20025,7 +20100,7 @@
                   <ID>5115</ID>
                   <Description>"Line 2"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -20162,7 +20237,7 @@
                   <ID>5132</ID>
                   <Description>"Line 3"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -20299,7 +20374,7 @@
                   <ID>5149</ID>
                   <Description>"Line 4"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -20436,7 +20511,7 @@
                   <ID>5166</ID>
                   <Description>"Line 5"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -20573,7 +20648,7 @@
                   <ID>5183</ID>
                   <Description>"Line 6"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -20710,7 +20785,7 @@
                   <ID>5200</ID>
                   <Description>"Line 7"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -20847,7 +20922,7 @@
                   <ID>5217</ID>
                   <Description>"Line 8"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -20984,7 +21059,7 @@
                   <ID>5234</ID>
                   <Description>"Line 9"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -21121,7 +21196,7 @@
                   <ID>5251</ID>
                   <Description>"Line 10"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -21258,7 +21333,7 @@
                   <ID>5268</ID>
                   <Description>"Line 11"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -21395,7 +21470,7 @@
                   <ID>5285</ID>
                   <Description>"Line 12"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -21532,7 +21607,7 @@
                   <ID>5302</ID>
                   <Description>"Line 13"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -21669,7 +21744,7 @@
                   <ID>5319</ID>
                   <Description>"Line 14"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -21806,7 +21881,7 @@
                   <ID>5336</ID>
                   <Description>"Line 15"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -21943,7 +22018,7 @@
                   <ID>5353</ID>
                   <Description>"Line 16"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -22080,7 +22155,7 @@
                   <ID>5370</ID>
                   <Description>"Line 17"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -22217,7 +22292,7 @@
                   <ID>5387</ID>
                   <Description>"Line 18"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -22354,7 +22429,7 @@
                   <ID>5404</ID>
                   <Description>"Line 19"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -22491,7 +22566,7 @@
                   <ID>5421</ID>
                   <Description>"Line 20"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -22628,7 +22703,7 @@
                   <ID>5438</ID>
                   <Description>"Line 21"</Description>
                   <Options moManualExpandCollapse="1"/>
-                  <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -22769,7 +22844,7 @@
           <ID>5097</ID>
           <Description>"PaRappa"</Description>
           <Options moManualExpandCollapse="1"/>
-          <LastState Value="" RealAddress="FFFFFDF4C31D0000"/>
+          <LastState Value="" RealAddress="00000000"/>
           <GroupHeader>1</GroupHeader>
           <CheatEntries>
             <CheatEntry>
