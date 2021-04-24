@@ -16396,12 +16396,12 @@
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
-                      <ID>3791</ID>
+                      <ID>5774</ID>
                       <Description>"Co-op"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>33</ByteLength>
-                      <Address>001CFA10</Address>
+                      <Address>001CF730</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3792</ID>
@@ -16533,12 +16533,12 @@
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
-                      <ID>3808</ID>
+                      <ID>5775</ID>
                       <Description>"Co-op"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>33</ByteLength>
-                      <Address>001CFA3C</Address>
+                      <Address>001CF75C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3809</ID>
@@ -16670,12 +16670,12 @@
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
-                      <ID>3825</ID>
+                      <ID>5776</ID>
                       <Description>"Co-op"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>33</ByteLength>
-                      <Address>001CFA68</Address>
+                      <Address>001CF788</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3826</ID>
@@ -16807,12 +16807,12 @@
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
-                      <ID>3842</ID>
+                      <ID>5777</ID>
                       <Description>"Co-op"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>33</ByteLength>
-                      <Address>001CFA94</Address>
+                      <Address>001CF7B4</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3843</ID>
@@ -16944,12 +16944,12 @@
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
-                      <ID>3859</ID>
+                      <ID>5778</ID>
                       <Description>"Co-op"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>33</ByteLength>
-                      <Address>001CFAC0</Address>
+                      <Address>001CF7E0</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3860</ID>
@@ -17081,12 +17081,12 @@
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
-                      <ID>3876</ID>
+                      <ID>5779</ID>
                       <Description>"Co-op"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>33</ByteLength>
-                      <Address>001CFAEC</Address>
+                      <Address>001CF80C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3877</ID>
@@ -17218,12 +17218,12 @@
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
-                      <ID>3893</ID>
+                      <ID>5780</ID>
                       <Description>"Co-op"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>16</ByteLength>
-                      <Address>001CFB18</Address>
+                      <Address>001CF838</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3894</ID>
@@ -17355,12 +17355,12 @@
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
-                      <ID>3910</ID>
+                      <ID>5781</ID>
                       <Description>"Co-op"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>8</ByteLength>
-                      <Address>001CFB30</Address>
+                      <Address>001CF850</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3911</ID>
@@ -17492,12 +17492,12 @@
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
-                      <ID>3927</ID>
+                      <ID>5782</ID>
                       <Description>"Co-op"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>9</ByteLength>
-                      <Address>001CFB40</Address>
+                      <Address>001CF860</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3928</ID>
