@@ -52,18 +52,18 @@
           <Address>000726B8</Address>
         </CheatEntry>
         <CheatEntry>
-          <ID>26</ID>
+          <ID>24</ID>
           <Description>"Gain"</Description>
           <ShowAsSigned>1</ShowAsSigned>
           <VariableType>2 Bytes</VariableType>
-          <Address>001A2D38</Address>
+          <Address>000726A8</Address>
         </CheatEntry>
         <CheatEntry>
-          <ID>24</ID>
+          <ID>26</ID>
           <Description>"Gain 2"</Description>
           <ShowAsSigned>1</ShowAsSigned>
           <VariableType>2 Bytes</VariableType>
-          <Address>000726A8</Address>
+          <Address>001A2D38</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>39</ID>
@@ -110,6 +110,13 @@
           <VariableType>Byte</VariableType>
           <Address>000790D8</Address>
         </CheatEntry>
+        <CheatEntry>
+          <ID>5783</ID>
+          <Description>"Co-Op Total"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00078D0E</Address>
+        </CheatEntry>
       </CheatEntries>
     </CheatEntry>
     <CheatEntry>
@@ -154,6 +161,13 @@
           <Description>"P2 AI"</Description>
           <VariableType>2 Bytes</VariableType>
           <Address>00072718</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5785</ID>
+          <Description>"Player 2 GAIN"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00078D0C</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>20</ID>
@@ -237,6 +251,17 @@
       <Description>"Score thing"</Description>
       <VariableType>2 Bytes</VariableType>
       <Address>001A2E74</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5784</ID>
+      <Description>"Player Turn"</Description>
+      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">0:N/A
+1:Player 1
+2:Player 2
+</DropDownList>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>00072788</Address>
     </CheatEntry>
     <CheatEntry>
       <ID>361</ID>
