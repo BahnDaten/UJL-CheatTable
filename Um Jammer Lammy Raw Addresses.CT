@@ -209,7 +209,7 @@
         <CheatEntry>
           <ID>5768</ID>
           <Description>"Player 2 AI Difficulty"</Description>
-          <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">0:Co-Op
+          <DropDownList DisplayValueAsItem="1">0:Co-Op
 1:Level 1 (Sets 4-8)
 2:Level 2 (Sets 9-12)
 3:NOT TESTED
@@ -217,6 +217,8 @@
 5:NOT TESTED
 6:NOT TESTED
 7:Level 4 (Sets 4-16)
+31:Most difficult
+55:Variant 1 and set 1 only
 </DropDownList>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>2 Bytes</VariableType>
@@ -16257,12 +16259,12 @@
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
-                      <ID>3788</ID>
+                      <ID>5773</ID>
                       <Description>"Co-op"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>33</ByteLength>
-                      <Address>001CF9E4</Address>
+                      <Address>001CF704</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3787</ID>
