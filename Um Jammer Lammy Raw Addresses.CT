@@ -253,17 +253,6 @@
       <Address>001A2E74</Address>
     </CheatEntry>
     <CheatEntry>
-      <ID>5784</ID>
-      <Description>"Player Turn"</Description>
-      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">0:N/A
-1:Player 1
-2:Player 2
-</DropDownList>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>2 Bytes</VariableType>
-      <Address>00072788</Address>
-    </CheatEntry>
-    <CheatEntry>
       <ID>361</ID>
       <Description>"Set to 0 for PTR2 line mechanics (default is 6)"</Description>
       <VariableType>Byte</VariableType>
@@ -294,10 +283,43 @@
       <Address>001AD9FC</Address>
     </CheatEntry>
     <CheatEntry>
+      <ID>5784</ID>
+      <Description>"Player Turn"</Description>
+      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">0:N/A
+1:Player 1
+2:Player 2
+</DropDownList>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>00072788</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5787</ID>
+      <Description>"Rhythm Timeline Mode"</Description>
+      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">0:Invisible
+1:Easy Mode
+2:Normal Mode
+</DropDownList>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>00069B60</Address>
+    </CheatEntry>
+    <CheatEntry>
       <ID>1114</ID>
       <Description>"Rhythm Timeline Visibility"</Description>
       <VariableType>2 Bytes</VariableType>
       <Address>00069B64</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5786</ID>
+      <Description>"Rhythm Timeline Icon"</Description>
+      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">1:Player 1
+2:Player 2
+3:Co-Singer
+</DropDownList>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>00069B6C</Address>
     </CheatEntry>
     <CheatEntry>
       <ID>29</ID>
