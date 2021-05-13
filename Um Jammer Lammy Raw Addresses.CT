@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<CheatTable CheatEngineTableVersion="29">
+<CheatTable CheatEngineTableVersion="34">
   <CheatEntries>
     <CheatEntry>
       <ID>1111</ID>
@@ -40745,22 +40745,6 @@
                       <Address>001D3BAC</Address>
                     </CheatEntry>
                     <CheatEntry>
-                      <ID>1096</ID>
-                      <Description>"2"</Description>
-                      <ShowAsHex>1</ShowAsHex>
-                      <VariableType>Array of byte</VariableType>
-                      <ByteLength>9</ByteLength>
-                      <Address>001D3DCC</Address>
-                    </CheatEntry>
-                    <CheatEntry>
-                      <ID>2257</ID>
-                      <Description>"2"</Description>
-                      <ShowAsHex>1</ShowAsHex>
-                      <VariableType>Array of byte</VariableType>
-                      <ByteLength>9</ByteLength>
-                      <Address>001D3BAC</Address>
-                    </CheatEntry>
-                    <CheatEntry>
                       <ID>2258</ID>
                       <Description>"2"</Description>
                       <ShowAsHex>1</ShowAsHex>
@@ -40775,6 +40759,22 @@
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>9</ByteLength>
                       <Address>001D3FEC</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>5788</ID>
+                      <Description>"2"</Description>
+                      <ShowAsHex>1</ShowAsHex>
+                      <VariableType>Array of byte</VariableType>
+                      <ByteLength>9</ByteLength>
+                      <Address>001D420C</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>5789</ID>
+                      <Description>"2"</Description>
+                      <ShowAsHex>1</ShowAsHex>
+                      <VariableType>Array of byte</VariableType>
+                      <ByteLength>9</ByteLength>
+                      <Address>001D442C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>2260</ID>
