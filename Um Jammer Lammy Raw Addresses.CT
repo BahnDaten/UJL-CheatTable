@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<CheatTable CheatEngineTableVersion="34">
+<CheatTable CheatEngineTableVersion="29">
   <CheatEntries>
     <CheatEntry>
       <ID>1111</ID>
@@ -20312,128 +20312,128 @@
                       <Description>"Co-op"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>17</ByteLength>
-                      <Address>001D1EEA</Address>
+                      <ByteLength>19</ByteLength>
+                      <Address>001D1EE8</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>5134</ID>
                       <Description>"Co-op"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>17</ByteLength>
-                      <Address>001D2112</Address>
+                      <ByteLength>19</ByteLength>
+                      <Address>001D2110</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>5135</ID>
                       <Description>"Co-op"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>17</ByteLength>
-                      <Address>001D233A</Address>
+                      <ByteLength>19</ByteLength>
+                      <Address>001D2338</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>5136</ID>
                       <Description>"1"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>17</ByteLength>
-                      <Address>001D2562</Address>
+                      <ByteLength>19</ByteLength>
+                      <Address>001D2560</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>5137</ID>
                       <Description>"1"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>17</ByteLength>
-                      <Address>001D278A</Address>
+                      <ByteLength>19</ByteLength>
+                      <Address>001D2788</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>5138</ID>
                       <Description>"1"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>17</ByteLength>
-                      <Address>001D29B2</Address>
+                      <ByteLength>19</ByteLength>
+                      <Address>001D29B0</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>5139</ID>
                       <Description>"1"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>17</ByteLength>
-                      <Address>001D2BDA</Address>
+                      <ByteLength>19</ByteLength>
+                      <Address>001D2BD8</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>5140</ID>
                       <Description>"2"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>17</ByteLength>
-                      <Address>001D2E02</Address>
+                      <ByteLength>19</ByteLength>
+                      <Address>001D2E00</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>5141</ID>
                       <Description>"2"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>17</ByteLength>
-                      <Address>001D302A</Address>
+                      <ByteLength>19</ByteLength>
+                      <Address>001D3028</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>5142</ID>
                       <Description>"2"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>17</ByteLength>
-                      <Address>001D3252</Address>
+                      <ByteLength>19</ByteLength>
+                      <Address>001D3250</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>5143</ID>
                       <Description>"2"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>17</ByteLength>
-                      <Address>001D347A</Address>
+                      <ByteLength>19</ByteLength>
+                      <Address>001D3478</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>5144</ID>
                       <Description>"3"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>17</ByteLength>
-                      <Address>001D36A2</Address>
+                      <ByteLength>19</ByteLength>
+                      <Address>001D36A0</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>5145</ID>
                       <Description>"3"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>17</ByteLength>
-                      <Address>001D38CA</Address>
+                      <ByteLength>19</ByteLength>
+                      <Address>001D38C8</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>5146</ID>
                       <Description>"3"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>17</ByteLength>
-                      <Address>001D3AF2</Address>
+                      <ByteLength>19</ByteLength>
+                      <Address>001D3AF0</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>5147</ID>
                       <Description>"3"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>17</ByteLength>
-                      <Address>001D3D1A</Address>
+                      <ByteLength>19</ByteLength>
+                      <Address>001D3D18</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>5148</ID>
                       <Description>"3"</Description>
                       <ShowAsHex>1</ShowAsHex>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>17</ByteLength>
-                      <Address>001D3F42</Address>
+                      <ByteLength>19</ByteLength>
+                      <Address>001D3F40</Address>
                     </CheatEntry>
                   </CheatEntries>
                 </CheatEntry>
