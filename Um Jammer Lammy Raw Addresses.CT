@@ -334,6 +334,13 @@
       <Address>000790B0</Address>
     </CheatEntry>
     <CheatEntry>
+      <ID>11153</ID>
+      <Description>"Stage"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>000790b4</Address>
+    </CheatEntry>
+    <CheatEntry>
       <ID>7</ID>
       <Description>"Stage"</Description>
       <VariableType>2 Bytes</VariableType>
