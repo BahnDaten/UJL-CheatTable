@@ -253,6 +253,13 @@
       <Address>001A2E74</Address>
     </CheatEntry>
     <CheatEntry>
+      <ID>11154</ID>
+      <Description>"COOL Threshold"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>000726B4</Address>
+    </CheatEntry>
+    <CheatEntry>
       <ID>361</ID>
       <Description>"Set to 0 for PTR2 line mechanics (default is 6)"</Description>
       <VariableType>Byte</VariableType>
