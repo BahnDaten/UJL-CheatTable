@@ -256,8 +256,15 @@
       <ID>11154</ID>
       <Description>"COOL Threshold"</Description>
       <ShowAsSigned>1</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
+      <VariableType>2 Bytes</VariableType>
       <Address>000726a4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11155</ID>
+      <Description>"COOL Threshold P2"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>00072704</Address>
     </CheatEntry>
     <CheatEntry>
       <ID>361</ID>
