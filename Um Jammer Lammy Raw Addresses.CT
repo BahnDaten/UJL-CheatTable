@@ -350,6 +350,12 @@
       <Address>00069B6C</Address>
     </CheatEntry>
     <CheatEntry>
+      <ID>11159</ID>
+      <Description>"Enable Fever Mode"</Description>
+      <VariableType>2 Bytes</VariableType>
+      <Address>0000790C4</Address>
+    </CheatEntry>
+    <CheatEntry>
       <ID>29</ID>
       <Description>"No description"</Description>
       <VariableType>2 Bytes</VariableType>
