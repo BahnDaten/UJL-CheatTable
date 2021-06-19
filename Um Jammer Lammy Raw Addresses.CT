@@ -420,13 +420,6 @@
       <Address>001A5910</Address>
     </CheatEntry>
     <CheatEntry>
-      <ID>11156</ID>
-      <Description>"Shurikens"</Description>
-      <ShowAsSigned>1</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>69b60</Address>
-    </CheatEntry>
-    <CheatEntry>
       <ID>36</ID>
       <Description>"P2"</Description>
       <VariableType>Byte</VariableType>
