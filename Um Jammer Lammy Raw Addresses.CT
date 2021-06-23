@@ -489,7 +489,7 @@
                           <Description>"Set 1"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0184</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -497,7 +497,7 @@
                           <Description>"Set 1"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D01AC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -505,7 +505,7 @@
                           <Description>"Set 1"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D01D4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -513,7 +513,7 @@
                           <Description>"Set 1"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D01FC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -521,7 +521,7 @@
                           <Description>"Set 1"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0224</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -529,7 +529,7 @@
                           <Description>"Set 1"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D024C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -537,7 +537,7 @@
                           <Description>"Set 1"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0274</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -545,7 +545,7 @@
                           <Description>"Set 1"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D029C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -553,7 +553,7 @@
                           <Description>"Set 2"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D02C4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -561,7 +561,7 @@
                           <Description>"Set 2"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D02EC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -569,7 +569,7 @@
                           <Description>"Set 2"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0314</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -577,7 +577,7 @@
                           <Description>"Set 2"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D033C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -585,7 +585,7 @@
                           <Description>"Set 2"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0364</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -593,7 +593,7 @@
                           <Description>"Set 2"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D038C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -601,7 +601,7 @@
                           <Description>"Set 2"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D03B4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -609,7 +609,7 @@
                           <Description>"Set 2"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D03DC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -617,7 +617,7 @@
                           <Description>"Set 3"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0404</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -625,7 +625,7 @@
                           <Description>"Set 3"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D042C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -633,7 +633,7 @@
                           <Description>"Set 3"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0454</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -641,7 +641,7 @@
                           <Description>"Set 3"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D047C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -649,7 +649,7 @@
                           <Description>"Set 3"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D04A4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -657,7 +657,7 @@
                           <Description>"Set 3"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D04CC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -665,7 +665,7 @@
                           <Description>"Set 3"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D04F4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -673,7 +673,7 @@
                           <Description>"Set 3"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D051C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -681,7 +681,7 @@
                           <Description>"Set 4"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0544</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -689,7 +689,7 @@
                           <Description>"Set 4"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D056C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -697,7 +697,7 @@
                           <Description>"Set 4"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0594</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -705,7 +705,7 @@
                           <Description>"Set 4"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D05BC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -713,7 +713,7 @@
                           <Description>"Set 4"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D05E4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -721,7 +721,7 @@
                           <Description>"Set 4"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D060C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -729,7 +729,7 @@
                           <Description>"Set 4"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0634</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -737,7 +737,7 @@
                           <Description>"Set 4"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D065C</Address>
                         </CheatEntry>
                       </CheatEntries>
@@ -754,7 +754,7 @@
                           <Description>"Set 5"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0684</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -762,7 +762,7 @@
                           <Description>"Set 5"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D06AC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -770,7 +770,7 @@
                           <Description>"Set 5"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D06D4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -778,7 +778,7 @@
                           <Description>"Set 5"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D06FC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -786,7 +786,7 @@
                           <Description>"Set 5"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0724</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -794,7 +794,7 @@
                           <Description>"Set 5"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D074C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -802,7 +802,7 @@
                           <Description>"Set 5"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0774</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -810,7 +810,7 @@
                           <Description>"Set 5"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D079C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -818,7 +818,7 @@
                           <Description>"Set 6"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D07C4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -826,7 +826,7 @@
                           <Description>"Set 6"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D07EC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -834,7 +834,7 @@
                           <Description>"Set 6"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0814</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -842,7 +842,7 @@
                           <Description>"Set 6"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D083C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -850,7 +850,7 @@
                           <Description>"Set 6"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0864</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -858,7 +858,7 @@
                           <Description>"Set 6"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D088C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -866,7 +866,7 @@
                           <Description>"Set 6"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D08B4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -874,7 +874,7 @@
                           <Description>"Set 6"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D08DC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -882,7 +882,7 @@
                           <Description>"Set 7"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0904</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -890,7 +890,7 @@
                           <Description>"Set 7"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D092C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -898,7 +898,7 @@
                           <Description>"Set 7"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0954</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -906,7 +906,7 @@
                           <Description>"Set 7"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D097C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -914,7 +914,7 @@
                           <Description>"Set 7"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D09A4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -922,7 +922,7 @@
                           <Description>"Set 7"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D09CC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -930,7 +930,7 @@
                           <Description>"Set 7"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D09F4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -938,7 +938,7 @@
                           <Description>"Set 7"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0A1C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -946,7 +946,7 @@
                           <Description>"Set 8"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0A44</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -954,7 +954,7 @@
                           <Description>"Set 8"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0A6C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -962,7 +962,7 @@
                           <Description>"Set 8"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0A94</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -970,7 +970,7 @@
                           <Description>"Set 8"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0ABC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -978,7 +978,7 @@
                           <Description>"Set 8"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0AE4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -986,7 +986,7 @@
                           <Description>"Set 8"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0B0C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -994,7 +994,7 @@
                           <Description>"Set 8"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0B34</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1002,7 +1002,7 @@
                           <Description>"Set 8"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0B5C</Address>
                         </CheatEntry>
                       </CheatEntries>
@@ -1019,7 +1019,7 @@
                           <Description>"Set 9"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0B84</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1027,7 +1027,7 @@
                           <Description>"Set 9"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0BAC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1035,7 +1035,7 @@
                           <Description>"Set 9"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0BD4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1043,7 +1043,7 @@
                           <Description>"Set 9"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0BFC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1051,7 +1051,7 @@
                           <Description>"Set 9"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0C24</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1059,7 +1059,7 @@
                           <Description>"Set 9"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0C4C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1067,7 +1067,7 @@
                           <Description>"Set 9"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0C74</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1075,7 +1075,7 @@
                           <Description>"Set 9"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0C9C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1083,7 +1083,7 @@
                           <Description>"Set 10"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0CC4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1091,7 +1091,7 @@
                           <Description>"Set 10"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0CEC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1099,7 +1099,7 @@
                           <Description>"Set 10"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0D14</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1107,7 +1107,7 @@
                           <Description>"Set 10"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0D3C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1115,7 +1115,7 @@
                           <Description>"Set 10"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0D64</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1123,7 +1123,7 @@
                           <Description>"Set 10"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0D8C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1131,7 +1131,7 @@
                           <Description>"Set 10"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0DB4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1139,7 +1139,7 @@
                           <Description>"Set 10"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0DDC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1147,7 +1147,7 @@
                           <Description>"Set 11"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0E04</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1155,7 +1155,7 @@
                           <Description>"Set 11"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0E2C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1163,7 +1163,7 @@
                           <Description>"Set 11"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0E54</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1171,7 +1171,7 @@
                           <Description>"Set 11"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0E7C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1179,7 +1179,7 @@
                           <Description>"Set 11"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0EA4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1187,7 +1187,7 @@
                           <Description>"Set 11"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0ECC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1195,7 +1195,7 @@
                           <Description>"Set 11"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0EF4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1203,7 +1203,7 @@
                           <Description>"Set 11"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0F1C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1211,7 +1211,7 @@
                           <Description>"Set 12"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0F44</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1219,7 +1219,7 @@
                           <Description>"Set 12"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0F6C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1227,7 +1227,7 @@
                           <Description>"Set 12"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0F94</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1235,7 +1235,7 @@
                           <Description>"Set 12"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0FBC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1243,7 +1243,7 @@
                           <Description>"Set 12"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D0FE4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1251,7 +1251,7 @@
                           <Description>"Set 12"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D100C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1259,7 +1259,7 @@
                           <Description>"Set 12"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1034</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1267,7 +1267,7 @@
                           <Description>"Set 12"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D105C</Address>
                         </CheatEntry>
                       </CheatEntries>
@@ -1284,7 +1284,7 @@
                           <Description>"Set 13"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1084</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1292,7 +1292,7 @@
                           <Description>"Set 13"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D10AC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1300,7 +1300,7 @@
                           <Description>"Set 13"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D10D4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1308,7 +1308,7 @@
                           <Description>"Set 13"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D10FC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1316,7 +1316,7 @@
                           <Description>"Set 13"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1124</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1324,7 +1324,7 @@
                           <Description>"Set 13"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D114C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1332,7 +1332,7 @@
                           <Description>"Set 13"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1174</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1340,7 +1340,7 @@
                           <Description>"Set 13"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D119C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1348,7 +1348,7 @@
                           <Description>"Set 14"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D11C4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1356,7 +1356,7 @@
                           <Description>"Set 14"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D11EC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1364,7 +1364,7 @@
                           <Description>"Set 14"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1214</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1372,7 +1372,7 @@
                           <Description>"Set 14"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D123C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1380,7 +1380,7 @@
                           <Description>"Set 14"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1264</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1388,7 +1388,7 @@
                           <Description>"Set 14"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D128C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1396,7 +1396,7 @@
                           <Description>"Set 14"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D12B4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1404,7 +1404,7 @@
                           <Description>"Set 14"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D12DC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1412,7 +1412,7 @@
                           <Description>"Set 15"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1304</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1420,7 +1420,7 @@
                           <Description>"Set 15"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D132C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1428,7 +1428,7 @@
                           <Description>"Set 15"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1354</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1436,7 +1436,7 @@
                           <Description>"Set 15"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D137C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1444,7 +1444,7 @@
                           <Description>"Set 15"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D13A4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1452,7 +1452,7 @@
                           <Description>"Set 15"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D13CC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1460,7 +1460,7 @@
                           <Description>"Set 15"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D13F4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1468,7 +1468,7 @@
                           <Description>"Set 15"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D141C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1476,7 +1476,7 @@
                           <Description>"Set 16"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1444</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1484,7 +1484,7 @@
                           <Description>"Set 16"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D146C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1492,7 +1492,7 @@
                           <Description>"Set 16"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1494</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1500,7 +1500,7 @@
                           <Description>"Set 16"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D14BC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1508,7 +1508,7 @@
                           <Description>"Set 16"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D14E4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1516,7 +1516,7 @@
                           <Description>"Set 16"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D150C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1524,7 +1524,7 @@
                           <Description>"Set 16"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1534</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1532,7 +1532,7 @@
                           <Description>"Set 16"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D155C</Address>
                         </CheatEntry>
                       </CheatEntries>
@@ -1549,7 +1549,7 @@
                           <Description>"Set 17"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1584</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1557,7 +1557,7 @@
                           <Description>"Set 17"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D15AC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1565,7 +1565,7 @@
                           <Description>"Set 17"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D15D4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1573,7 +1573,7 @@
                           <Description>"Set 17"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D15FC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1581,7 +1581,7 @@
                           <Description>"Set 17"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1624</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1589,7 +1589,7 @@
                           <Description>"Set 17"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D164C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1597,7 +1597,7 @@
                           <Description>"Set 17"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1674</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1605,7 +1605,7 @@
                           <Description>"Set 17"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D169C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1613,7 +1613,7 @@
                           <Description>"Set 18"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D16C4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1621,7 +1621,7 @@
                           <Description>"Set 18"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D16EC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1629,7 +1629,7 @@
                           <Description>"Set 18"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1714</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1637,7 +1637,7 @@
                           <Description>"Set 18"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D173C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1645,7 +1645,7 @@
                           <Description>"Set 18"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1764</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1653,7 +1653,7 @@
                           <Description>"Set 18"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D178C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1661,7 +1661,7 @@
                           <Description>"Set 18"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D17B4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1669,7 +1669,7 @@
                           <Description>"Set 18"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D17DC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1677,7 +1677,7 @@
                           <Description>"Set 19"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1804</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1685,7 +1685,7 @@
                           <Description>"Set 19"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D182C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1693,7 +1693,7 @@
                           <Description>"Set 19"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1854</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1701,7 +1701,7 @@
                           <Description>"Set 19"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D187C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1709,7 +1709,7 @@
                           <Description>"Set 19"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D18A4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1717,7 +1717,7 @@
                           <Description>"Set 19"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D18CC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1725,7 +1725,7 @@
                           <Description>"Set 19"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D18F4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1733,7 +1733,7 @@
                           <Description>"Set 19"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D191C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1741,7 +1741,7 @@
                           <Description>"Set 20"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1944</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1749,7 +1749,7 @@
                           <Description>"Set 20"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D196C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1757,7 +1757,7 @@
                           <Description>"Set 20"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1994</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1765,7 +1765,7 @@
                           <Description>"Set 20"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D19BC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1773,7 +1773,7 @@
                           <Description>"Set 20"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D19E4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1781,7 +1781,7 @@
                           <Description>"Set 20"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1A0C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1789,7 +1789,7 @@
                           <Description>"Set 20"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1A34</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1797,7 +1797,7 @@
                           <Description>"Set 20"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1A5C</Address>
                         </CheatEntry>
                       </CheatEntries>
@@ -1814,7 +1814,7 @@
                           <Description>"Set 21"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1A84</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1822,7 +1822,7 @@
                           <Description>"Set 21"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1AAC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1830,7 +1830,7 @@
                           <Description>"Set 21"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1AD4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1838,7 +1838,7 @@
                           <Description>"Set 21"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1AFC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1846,7 +1846,7 @@
                           <Description>"Set 21"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1B24</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1854,7 +1854,7 @@
                           <Description>"Set 21"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1B4C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1862,7 +1862,7 @@
                           <Description>"Set 21"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1B74</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1870,7 +1870,7 @@
                           <Description>"Set 21"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1B9C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1878,7 +1878,7 @@
                           <Description>"Set 22"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1BC4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1886,7 +1886,7 @@
                           <Description>"Set 22"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1BEC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1894,7 +1894,7 @@
                           <Description>"Set 22"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1C14</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1902,7 +1902,7 @@
                           <Description>"Set 22"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1C3C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1910,7 +1910,7 @@
                           <Description>"Set 22"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1C64</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1918,7 +1918,7 @@
                           <Description>"Set 22"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1C8C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1926,7 +1926,7 @@
                           <Description>"Set 22"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1CB4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1934,7 +1934,7 @@
                           <Description>"Set 22"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1CDC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1942,7 +1942,7 @@
                           <Description>"Set 23"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1D04</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1950,7 +1950,7 @@
                           <Description>"Set 23"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1D2C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1958,7 +1958,7 @@
                           <Description>"Set 23"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1D54</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1966,7 +1966,7 @@
                           <Description>"Set 23"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1D7C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1974,7 +1974,7 @@
                           <Description>"Set 23"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1DA4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1982,7 +1982,7 @@
                           <Description>"Set 23"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1DCC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1990,7 +1990,7 @@
                           <Description>"Set 23"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1DF4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -1998,7 +1998,7 @@
                           <Description>"Set 23"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1E1C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2006,7 +2006,7 @@
                           <Description>"Set 24"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1E44</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2014,7 +2014,7 @@
                           <Description>"Set 24"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1E6C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2022,7 +2022,7 @@
                           <Description>"Set 24"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1E94</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2030,7 +2030,7 @@
                           <Description>"Set 24"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1EBC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2038,7 +2038,7 @@
                           <Description>"Set 24"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1EE4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2046,7 +2046,7 @@
                           <Description>"Set 24"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1F0C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2054,7 +2054,7 @@
                           <Description>"Set 24"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1F34</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2062,7 +2062,7 @@
                           <Description>"Set 24"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1F5C</Address>
                         </CheatEntry>
                       </CheatEntries>
@@ -2079,7 +2079,7 @@
                           <Description>"Set 25"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1F84</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2087,7 +2087,7 @@
                           <Description>"Set 25"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1FAC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2095,7 +2095,7 @@
                           <Description>"Set 25"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1FD4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2103,7 +2103,7 @@
                           <Description>"Set 25"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D1FFC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2111,7 +2111,7 @@
                           <Description>"Set 25"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D2024</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2119,7 +2119,7 @@
                           <Description>"Set 25"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D204C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2127,7 +2127,7 @@
                           <Description>"Set 25"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D2074</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2135,7 +2135,7 @@
                           <Description>"Set 25"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D209C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2143,7 +2143,7 @@
                           <Description>"Set 26"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D20C4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2151,7 +2151,7 @@
                           <Description>"Set 26"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D20EC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2159,7 +2159,7 @@
                           <Description>"Set 26"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D2114</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2167,7 +2167,7 @@
                           <Description>"Set 26"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D213C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2175,7 +2175,7 @@
                           <Description>"Set 26"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D2164</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2183,7 +2183,7 @@
                           <Description>"Set 26"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D218C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2191,7 +2191,7 @@
                           <Description>"Set 26"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D21B4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2199,7 +2199,7 @@
                           <Description>"Set 26"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D21DC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2207,7 +2207,7 @@
                           <Description>"Set 27"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D2204</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2215,7 +2215,7 @@
                           <Description>"Set 27"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D222C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2223,7 +2223,7 @@
                           <Description>"Set 27"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D2254</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2231,7 +2231,7 @@
                           <Description>"Set 27"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D227C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2239,7 +2239,7 @@
                           <Description>"Set 27"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D22A4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2247,7 +2247,7 @@
                           <Description>"Set 27"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D22CC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2255,7 +2255,7 @@
                           <Description>"Set 27"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D22F4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2263,7 +2263,7 @@
                           <Description>"Set 27"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D231C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2271,7 +2271,7 @@
                           <Description>"Set 28"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D2344</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2279,7 +2279,7 @@
                           <Description>"Set 28"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D236C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2287,7 +2287,7 @@
                           <Description>"Set 28"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D2394</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2295,7 +2295,7 @@
                           <Description>"Set 28"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D23BC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2303,7 +2303,7 @@
                           <Description>"Set 28"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D23E4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2311,7 +2311,7 @@
                           <Description>"Set 28"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D240C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2319,7 +2319,7 @@
                           <Description>"Set 28"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D2434</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2327,7 +2327,7 @@
                           <Description>"Set 28"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D245C</Address>
                         </CheatEntry>
                       </CheatEntries>
@@ -2344,7 +2344,7 @@
                           <Description>"Set 29"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D2484</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2352,7 +2352,7 @@
                           <Description>"Set 29"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D24AC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2360,7 +2360,7 @@
                           <Description>"Set 29"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D24D4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2368,7 +2368,7 @@
                           <Description>"Set 29"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D24FC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2376,7 +2376,7 @@
                           <Description>"Set 29"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D2524</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2384,7 +2384,7 @@
                           <Description>"Set 29"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D254C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2392,7 +2392,7 @@
                           <Description>"Set 29"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D2574</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2400,7 +2400,7 @@
                           <Description>"Set 29"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D259C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2408,7 +2408,7 @@
                           <Description>"Set 30"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D25C4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2416,7 +2416,7 @@
                           <Description>"Set 30"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D25EC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2424,7 +2424,7 @@
                           <Description>"Set 30"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D2614</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2432,7 +2432,7 @@
                           <Description>"Set 30"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D263C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2440,7 +2440,7 @@
                           <Description>"Set 30"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D2664</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2448,7 +2448,7 @@
                           <Description>"Set 30"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D268C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2456,7 +2456,7 @@
                           <Description>"Set 30"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D26B4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2464,7 +2464,7 @@
                           <Description>"Set 30"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D26DC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2472,7 +2472,7 @@
                           <Description>"Set 31"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D2704</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2480,7 +2480,7 @@
                           <Description>"Set 31"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D272C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2488,7 +2488,7 @@
                           <Description>"Set 31"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D2754</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2496,7 +2496,7 @@
                           <Description>"Set 31"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D277C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2504,7 +2504,7 @@
                           <Description>"Set 31"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D27A4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2512,7 +2512,7 @@
                           <Description>"Set 31"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D27CC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2520,7 +2520,7 @@
                           <Description>"Set 31"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D27F4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2528,7 +2528,7 @@
                           <Description>"Set 31"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D281C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2536,7 +2536,7 @@
                           <Description>"Set 32"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D2844</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2544,7 +2544,7 @@
                           <Description>"Set 32"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D286C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2552,7 +2552,7 @@
                           <Description>"Set 32"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D2894</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2560,7 +2560,7 @@
                           <Description>"Set 32"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D28BC</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2568,7 +2568,7 @@
                           <Description>"Set 32"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D28E4</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2576,7 +2576,7 @@
                           <Description>"Set 32"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D290C</Address>
                         </CheatEntry>
                         <CheatEntry>
@@ -2584,15 +2584,15 @@
                           <Description>"Set 32"</Description>
                           <ShowAsHex>1</ShowAsHex>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D2934</Address>
                         </CheatEntry>
                         <CheatEntry>
                           <ID>1869</ID>
                           <Description>"Set 32"</Description>
-                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Array of byte</VariableType>
-                          <ByteLength>29</ByteLength>
+                          <ByteLength>31</ByteLength>
                           <Address>001D295C</Address>
                         </CheatEntry>
                       </CheatEntries>
