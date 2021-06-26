@@ -73,22 +73,22 @@
           <Address>001A2D38</Address>
         </CheatEntry>
         <CheatEntry>
-          <ID>39</ID>
+          <ID>1110</ID>
           <Description>"Player 1 Cool Line 1"</Description>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>1</ShowAsSigned>
           <VariableType>Array of byte</VariableType>
           <ByteLength>16</ByteLength>
-          <Address>000726C1</Address>
+          <Address>000726D1</Address>
         </CheatEntry>
         <CheatEntry>
-          <ID>1110</ID>
+          <ID>39</ID>
           <Description>"Player 1 Cool Line 2"</Description>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>1</ShowAsSigned>
           <VariableType>Array of byte</VariableType>
           <ByteLength>16</ByteLength>
-          <Address>000726D1</Address>
+          <Address>000726C1</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>5770</ID>
@@ -123,13 +123,6 @@
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>2 Bytes</VariableType>
           <Address>00078D0E</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>11157</ID>
-          <Description>"Fever Timer (P1)"</Description>
-          <ShowAsSigned>1</ShowAsSigned>
-          <VariableType>2 Bytes</VariableType>
-          <Address>726e2</Address>
         </CheatEntry>
       </CheatEntries>
     </CheatEntry>
@@ -205,20 +198,20 @@
           <Address>001A3018</Address>
         </CheatEntry>
         <CheatEntry>
-          <ID>1101</ID>
+          <ID>1109</ID>
           <Description>"Player 2 Cool Line 1"</Description>
           <ShowAsHex>1</ShowAsHex>
           <VariableType>Array of byte</VariableType>
           <ByteLength>16</ByteLength>
-          <Address>00072721</Address>
+          <Address>00072731</Address>
         </CheatEntry>
         <CheatEntry>
-          <ID>1109</ID>
+          <ID>1101</ID>
           <Description>"Player 2 Cool Line 2"</Description>
           <ShowAsHex>1</ShowAsHex>
           <VariableType>Array of byte</VariableType>
           <ByteLength>16</ByteLength>
-          <Address>00072731</Address>
+          <Address>00072721</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>31</ID>
@@ -265,12 +258,92 @@
           <VariableType>Byte</VariableType>
           <Address>000790DC</Address>
         </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11160</ID>
+      <Description>"Fever"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
         <CheatEntry>
-          <ID>11158</ID>
-          <Description>"Fever Timer (P2)"</Description>
-          <ShowAsSigned>1</ShowAsSigned>
+          <ID>11159</ID>
+          <Description>"Enable Fever Mode"</Description>
           <VariableType>2 Bytes</VariableType>
-          <Address>00072742</Address>
+          <Address>0000790C4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11162</ID>
+          <Description>"Player 1"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>11157</ID>
+              <Description>"Fever Timer (P1)"</Description>
+              <ShowAsSigned>1</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>726e2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>11163</ID>
+              <Description>"Cool Status 1"</Description>
+              <ShowAsSigned>1</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>000726BF</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>11164</ID>
+              <Description>"Cool Status 2"</Description>
+              <ShowAsSigned>1</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>000726c0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>11165</ID>
+              <Description>"Cool Status 3"</Description>
+              <ShowAsSigned>1</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>001ac600</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11161</ID>
+          <Description>"Player 2"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>11158</ID>
+              <Description>"Fever Timer (P2)"</Description>
+              <ShowAsSigned>1</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00072742</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>11166</ID>
+              <Description>"Cool Status 1"</Description>
+              <ShowAsSigned>1</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>0007271F</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>11167</ID>
+              <Description>"Cool Status 2"</Description>
+              <ShowAsSigned>1</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>00072720</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>11168</ID>
+              <Description>"Cool Status 3"</Description>
+              <ShowAsSigned>1</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>001AC604</Address>
+            </CheatEntry>
+          </CheatEntries>
         </CheatEntry>
       </CheatEntries>
     </CheatEntry>
@@ -348,12 +421,6 @@
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>00069B6C</Address>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>11159</ID>
-      <Description>"Enable Fever Mode"</Description>
-      <VariableType>2 Bytes</VariableType>
-      <Address>0000790C4</Address>
     </CheatEntry>
     <CheatEntry>
       <ID>29</ID>
