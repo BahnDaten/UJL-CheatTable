@@ -41159,6 +41159,14 @@
                       <Address>001D4458</Address>
                     </CheatEntry>
                     <CheatEntry>
+                      <ID>11170</ID>
+                      <Description>"3"</Description>
+                      <ShowAsHex>1</ShowAsHex>
+                      <VariableType>Array of byte</VariableType>
+                      <ByteLength>19</ByteLength>
+                      <Address>001D4678</Address>
+                    </CheatEntry>
+                    <CheatEntry>
                       <ID>2278</ID>
                       <Description>"3"</Description>
                       <ShowAsHex>1</ShowAsHex>
@@ -84305,6 +84313,14 @@
                       <VariableType>Array of byte</VariableType>
                       <ByteLength>19</ByteLength>
                       <Address>001D44A4</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>11169</ID>
+                      <Description>"3"</Description>
+                      <ShowAsHex>1</ShowAsHex>
+                      <VariableType>Array of byte</VariableType>
+                      <ByteLength>19</ByteLength>
+                      <Address>001D46C4</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>10843</ID>
