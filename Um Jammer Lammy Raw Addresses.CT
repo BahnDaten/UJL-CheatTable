@@ -245,12 +245,12 @@
 5:NOT TESTED
 6:NOT TESTED
 7:Level 4 (Sets 4-16)
-31:Most difficult
-55:Variant 1 and set 1 only
+15:Most difficult
+FF:Penalties only
 </DropDownList>
           <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>2 Bytes</VariableType>
-          <Address>000790CD</Address>
+          <VariableType>Byte</VariableType>
+          <Address>000790CE</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>511</ID>
