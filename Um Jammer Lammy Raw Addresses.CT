@@ -250,7 +250,7 @@ FF:Penalties only
 </DropDownList>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>Byte</VariableType>
-          <Address>000790CE</Address>
+          <Address>000790Cd</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>511</ID>
