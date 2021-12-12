@@ -237,15 +237,14 @@
         <CheatEntry>
           <ID>5768</ID>
           <Description>"Player 2 AI Difficulty"</Description>
-          <DropDownList DisplayValueAsItem="1">0:Co-Op
+          <DropDownList DisplayValueAsItem="1">0:Level 1 (Sets 4-8)
 1:Level 1 (Sets 4-8)
 2:Level 2 (Sets 9-12)
-3:NOT TESTED
+3:Level 2 (Sets 9-12)
 4:Level 3 (Sets 1-16)
-5:NOT TESTED
-6:NOT TESTED
+5:Level 3 (Sets 1-16)
+6:Level 4 (Sets 4-16)
 7:Level 4 (Sets 4-16)
-15:Most difficult
 FF:Penalties only
 </DropDownList>
           <ShowAsSigned>0</ShowAsSigned>
