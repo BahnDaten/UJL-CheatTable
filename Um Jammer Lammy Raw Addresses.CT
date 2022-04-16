@@ -297,7 +297,7 @@ FF:Penalties only
         </CheatEntry>
         <CheatEntry>
           <ID>11178</ID>
-          <Description>"Timer"</Description>
+          <Description>"Timer?"</Description>
           <ShowAsSigned>1</ShowAsSigned>
           <VariableType>2 Bytes</VariableType>
           <Address>00074654</Address>
@@ -308,20 +308,45 @@ FF:Penalties only
           <ShowAsSigned>1</ShowAsSigned>
           <VariableType>Byte</VariableType>
           <Address>000726A3</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>11190</ID>
+              <Description>"P2"</Description>
+              <ShowAsSigned>1</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>00072703</Address>
+            </CheatEntry>
+          </CheatEntries>
         </CheatEntry>
         <CheatEntry>
           <ID>11181</ID>
           <Description>"Button variety"</Description>
           <ShowAsSigned>1</ShowAsSigned>
-          <VariableType>2 Bytes</VariableType>
+          <VariableType>Byte</VariableType>
           <Address>000726A6</Address>
           <CheatEntries>
             <CheatEntry>
               <ID>11182</ID>
               <Description>"Button variety"</Description>
               <ShowAsSigned>1</ShowAsSigned>
-              <VariableType>2 Bytes</VariableType>
+              <VariableType>Byte</VariableType>
               <Address>001A2D44</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11192</ID>
+          <Description>"P2 Button Variety"</Description>
+          <ShowAsSigned>1</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>72706</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>11191</ID>
+              <Description>"P2 Button Variety"</Description>
+              <ShowAsSigned>1</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>001A3024</Address>
             </CheatEntry>
           </CheatEntries>
         </CheatEntry>
