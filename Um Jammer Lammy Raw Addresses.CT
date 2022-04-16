@@ -52,11 +52,18 @@
           <Address>000726B8</Address>
         </CheatEntry>
         <CheatEntry>
+          <ID>11177</ID>
+          <Description>"Can P1 Play"</Description>
+          <ShowAsSigned>1</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>000726BE</Address>
+        </CheatEntry>
+        <CheatEntry>
           <ID>11154</ID>
           <Description>"COOL Threshold"</Description>
           <ShowAsSigned>1</ShowAsSigned>
           <VariableType>2 Bytes</VariableType>
-          <Address>000726a4</Address>
+          <Address>000726A4</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>24</ID>
@@ -170,6 +177,13 @@
           <Address>00072718</Address>
         </CheatEntry>
         <CheatEntry>
+          <ID>11179</ID>
+          <Description>"Can P2 Play"</Description>
+          <ShowAsSigned>1</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>0007271E</Address>
+        </CheatEntry>
+        <CheatEntry>
           <ID>11155</ID>
           <Description>"COOL Threshold P2"</Description>
           <ShowAsSigned>1</ShowAsSigned>
@@ -179,7 +193,7 @@
         <CheatEntry>
           <ID>5785</ID>
           <Description>"Player 2 GAIN"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
+          <ShowAsSigned>1</ShowAsSigned>
           <VariableType>2 Bytes</VariableType>
           <Address>00078D0C</Address>
         </CheatEntry>
@@ -247,15 +261,120 @@
 7:Level 4 (Sets 4-16)
 FF:Penalties only
 </DropDownList>
+          <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>Byte</VariableType>
-          <Address>000790Cd</Address>
+          <Address>000790CD</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>511</ID>
           <Description>"Player 2 Music"</Description>
           <VariableType>Byte</VariableType>
           <Address>000790DC</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11175</ID>
+      <Description>"Miscellaneous"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>11174</ID>
+          <Description>"Line Count"</Description>
+          <ShowAsSigned>1</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>001A386D</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11176</ID>
+          <Description>"Player Line Count"</Description>
+          <ShowAsSigned>1</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>001AD9B5</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11178</ID>
+          <Description>"Timer"</Description>
+          <ShowAsSigned>1</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00074654</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11180</ID>
+          <Description>"Expected Button Count"</Description>
+          <ShowAsSigned>1</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>000726A3</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11181</ID>
+          <Description>"Button variety"</Description>
+          <ShowAsSigned>1</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>000726A6</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>11182</ID>
+              <Description>"Button variety"</Description>
+              <ShowAsSigned>1</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>001A2D44</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11184</ID>
+          <Description>"COOL Button Counts"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>11183</ID>
+              <Description>"T"</Description>
+              <ShowAsSigned>1</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>001CC9D6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>11185</ID>
+              <Description>"O"</Description>
+              <ShowAsSigned>1</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>001CC9E2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>11186</ID>
+              <Description>"X"</Description>
+              <ShowAsSigned>1</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>001CC9EE</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>11187</ID>
+              <Description>"S"</Description>
+              <ShowAsSigned>1</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>001CC9FA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>11188</ID>
+              <Description>"L"</Description>
+              <ShowAsSigned>1</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>001CC906</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>11189</ID>
+              <Description>"R"</Description>
+              <ShowAsSigned>1</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>001CC912</Address>
+            </CheatEntry>
+          </CheatEntries>
         </CheatEntry>
       </CheatEntries>
     </CheatEntry>
@@ -270,7 +389,7 @@ FF:Penalties only
           <ID>11159</ID>
           <Description>"Enable Fever Mode"</Description>
           <VariableType>2 Bytes</VariableType>
-          <Address>0000790C4</Address>
+          <Address>000790C4</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>11162</ID>
@@ -283,7 +402,7 @@ FF:Penalties only
               <Description>"Fever Timer (P1)"</Description>
               <ShowAsSigned>1</ShowAsSigned>
               <VariableType>2 Bytes</VariableType>
-              <Address>726e2</Address>
+              <Address>000726E2</Address>
             </CheatEntry>
             <CheatEntry>
               <ID>11163</ID>
@@ -297,14 +416,14 @@ FF:Penalties only
               <Description>"Cool Status 2"</Description>
               <ShowAsSigned>1</ShowAsSigned>
               <VariableType>Byte</VariableType>
-              <Address>000726c0</Address>
+              <Address>000726C0</Address>
             </CheatEntry>
             <CheatEntry>
               <ID>11165</ID>
               <Description>"Cool Status 3"</Description>
               <ShowAsSigned>1</ShowAsSigned>
               <VariableType>Byte</VariableType>
-              <Address>001ac600</Address>
+              <Address>001AC600</Address>
             </CheatEntry>
           </CheatEntries>
         </CheatEntry>
@@ -438,7 +557,7 @@ FF:Penalties only
       <Description>"Stage"</Description>
       <ShowAsSigned>1</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
-      <Address>000790b4</Address>
+      <Address>000790B4</Address>
     </CheatEntry>
     <CheatEntry>
       <ID>7</ID>
@@ -34019,128 +34138,144 @@ FF:Penalties only
                       <ID>3206</ID>
                       <Description>"No description"</Description>
                       <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>1</ShowAsSigned>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>9</ByteLength>
+                      <ByteLength>11</ByteLength>
                       <Address>001CEA90</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3207</ID>
                       <Description>"No description"</Description>
                       <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>1</ShowAsSigned>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>9</ByteLength>
+                      <ByteLength>11</ByteLength>
                       <Address>001CEC18</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3208</ID>
                       <Description>"No description"</Description>
                       <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>9</ByteLength>
+                      <ByteLength>11</ByteLength>
                       <Address>001CEDA0</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3209</ID>
                       <Description>"1"</Description>
                       <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>1</ShowAsSigned>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>9</ByteLength>
+                      <ByteLength>11</ByteLength>
                       <Address>001CEF28</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3210</ID>
                       <Description>"1"</Description>
                       <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>1</ShowAsSigned>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>9</ByteLength>
+                      <ByteLength>11</ByteLength>
                       <Address>001CF0B0</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3211</ID>
                       <Description>"1"</Description>
                       <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>1</ShowAsSigned>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>9</ByteLength>
+                      <ByteLength>11</ByteLength>
                       <Address>001CF238</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3212</ID>
                       <Description>"1"</Description>
                       <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>1</ShowAsSigned>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>9</ByteLength>
+                      <ByteLength>11</ByteLength>
                       <Address>001CF3C0</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3213</ID>
                       <Description>"2"</Description>
                       <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>1</ShowAsSigned>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>9</ByteLength>
+                      <ByteLength>11</ByteLength>
                       <Address>001CF548</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3214</ID>
                       <Description>"2"</Description>
                       <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>1</ShowAsSigned>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>9</ByteLength>
+                      <ByteLength>11</ByteLength>
                       <Address>001CF6D0</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3215</ID>
                       <Description>"2"</Description>
                       <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>1</ShowAsSigned>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>9</ByteLength>
+                      <ByteLength>11</ByteLength>
                       <Address>001CF858</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3216</ID>
                       <Description>"2"</Description>
                       <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>1</ShowAsSigned>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>9</ByteLength>
+                      <ByteLength>11</ByteLength>
                       <Address>001CF9E0</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3217</ID>
                       <Description>"3"</Description>
                       <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>1</ShowAsSigned>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>9</ByteLength>
+                      <ByteLength>11</ByteLength>
                       <Address>001CFB68</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3218</ID>
                       <Description>"3"</Description>
                       <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>1</ShowAsSigned>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>9</ByteLength>
+                      <ByteLength>11</ByteLength>
                       <Address>001CFCF0</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3219</ID>
                       <Description>"3"</Description>
                       <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>1</ShowAsSigned>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>9</ByteLength>
+                      <ByteLength>11</ByteLength>
                       <Address>001CFE78</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3220</ID>
                       <Description>"3"</Description>
                       <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>1</ShowAsSigned>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>9</ByteLength>
+                      <ByteLength>11</ByteLength>
                       <Address>001D0000</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>3221</ID>
                       <Description>"3"</Description>
                       <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>1</ShowAsSigned>
                       <VariableType>Array of byte</VariableType>
-                      <ByteLength>9</ByteLength>
+                      <ByteLength>11</ByteLength>
                       <Address>001D0188</Address>
                     </CheatEntry>
                   </CheatEntries>
@@ -86826,6 +86961,27 @@ FF:Penalties only
           </CheatEntries>
         </CheatEntry>
       </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11171</ID>
+      <Description>"corruption address"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>001DFED6</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11172</ID>
+      <Description>"corruption address"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>001DFE92</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11173</ID>
+      <Description>"Corruption address"</Description>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>001DF06E</Address>
     </CheatEntry>
   </CheatEntries>
   <UserdefinedSymbols/>
