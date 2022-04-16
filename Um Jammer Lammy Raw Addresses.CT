@@ -338,7 +338,7 @@ FF:Penalties only
           <ID>11192</ID>
           <Description>"P2 Button Variety"</Description>
           <ShowAsSigned>1</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
+          <VariableType>Byte</VariableType>
           <Address>72706</Address>
           <CheatEntries>
             <CheatEntry>
