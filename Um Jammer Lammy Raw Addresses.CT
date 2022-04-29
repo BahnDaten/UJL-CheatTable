@@ -86963,6 +86963,14 @@ FF:Penalties only
       <VariableType>2 Bytes</VariableType>
       <Address>001DF06E</Address>
     </CheatEntry>
+    <CheatEntry>
+      <ID>11195</ID>
+      <Description>"Texture/model stretching"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>001c4b28</Address>
+    </CheatEntry>
   </CheatEntries>
   <UserdefinedSymbols/>
 </CheatTable>
